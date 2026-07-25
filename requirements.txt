@@ -1,0 +1,15 @@
+langgraph
+langgraph-checkpoint-postgres
+google-genai
+fastapi
+uvicorn
+python-multipart
+sse-starlette
+python-dotenv
+chromadb
+psycopg[binary]
+pypdf
+python-docx
+pymupdf
+mcp
+pytest
