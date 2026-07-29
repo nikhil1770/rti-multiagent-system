@@ -1,0 +1,26 @@
+{
+  "id": "food_civil_supplies/stock_received_records",
+  "department": "food_civil_supplies",
+  "section": "stock_received_records",
+  "title": "Stock received records",
+  "topic": "stock",
+  "source_file": "food_civil_supplies_stock_received_records.docx",
+  "chunks": [
+    {
+      "chunk_id": "stock_received_records#0",
+      "text": "Section: stock_received_records\n\nDEPARTMENT OF FOOD, SUPPLIES & CONSUMER AFFAIRS\nGOVERNMENT OF NATIONAL CAPITAL TERRITORY OF DELHI\nDISTRICT DISTRIBUTION CELL (EAST & NORTH-EAST DISTRICTS), K-BLOCK, VIKAS BHAWAN, NEW DELHI\n\nFile Ref. No.: DFS/PDS/STOCK/2011-12/REG-08\t\t\t\t\tDated: 18th May 2012\n\n――――――――――――――――――――――――――――――――――――――――――――――――――――――――――\n\nCONSOLIDATED AUDIT OF GRAIN ALLOCATIONS, FCI GODOWN DISPATCH SLIPS, TRUCK CHALLANS, AND FPS STOCK RECEIPT REGISTRATIONS\nSUBJECT: Statutory Stock Verification Ledger for Fair Price Shops (FPS) in Circle 60 (Sundar Nagari / Nand Nagri) and Circle 61 (Seemapuri), FCI Depot Gate Receipts (Gazipur Godown), Kerosene Wholesale Allocations, and Quarterly Stock Recon Logs.\n\n1. STATUTORY FRAMEWORK & ALLOCATION LOGISTICS\n\n1.1 Under the Delhi Public Distribution System (Control) Order, 2001, issued in exercise of powers conferred by Section 3 of the Essential Commodities Act, 1955 (10 of 1955), the Department of Food, Supplies & Consumer Affairs receives monthly foodgrain quotas (Wheat, Rice, Sugar) from the Food Corporation of India (FCI) depots for targeted distribution across designated Fair Price Shops (FPS)."
+    },
+    {
+      "chunk_id": "stock_received_records#1",
+      "text": "1.2 Stock allocated from FCI Godowns (primarily Gazipur and Okhla Depots) is transported via authorized doorstep delivery contractors to licensed FPS outlets. Every shipment must be accompanied by an official FCI Delivery Challan / Truck Slip indicating gross weight, net bags, batch serials, and destination FPS License Number.\n\n2. MASTER STOCK RECEIPT AUDIT - CIRCLE 60 (SUNDAR NAGARI / NAND NAGRI)\n\n2.1 Detailed reconciliation of monthly stock dispatches from FCI Gazipur Depot against physical receipt entries acknowledged by FPS dealers in Circle 60 (Sundar Nagari) for FY 2011-12 reveals the following allocation metrics:\n\n3. FCI DEPOT DISPATCH AUDITS AND TRANSPORTATION TRUCK LOGS\n\n3.1 FCI Gazipur Depot Gate Slips: Audit of Gate Pass Register Series `GZP-FCI-2011` shows that during May 2011, 4,250 Metric Tonnes of foodgrains were released for East District. Transporter truck logs operated by Delhi State Civil Supplies Corporation (DSCSC) indicate 312 truck trips dispatched."
+    },
+    {
+      "chunk_id": "stock_received_records#2",
+      "text": "3.2 Transit Shortage Claims: FPS dealers reported total transit shortage claims of 48.5 Quintals across 14 shops in Circle 60. Joint inspection teams comprising Food Supply Inspector (FSI) and DSCSC representative conducted physical weighments to adjust transit tolerance limits (maximum 0.5% allowed).\n\n4. KEROSENE OIL DEPOT (KOD) ALLOCATIONS & WHOLESALE DISTRIBUTORS\n\n4.1 Allocation of Superior Kerosene Oil (SKO): Kerosene Oil Depots (KOD) attached to Circle 60 received 48,000 Litres of SKO from IOCL/BPCL depots. Distribution to cardholders without LPG connections was regulated at 12 Litres per card per month.\n\n5. ROUTINE WAREHOUSE SAFETY AND QUALITY CONTROL INSPECTIONS\n\n5.1 Grain Quality Sampling: Quality Control Officers collected 28 grain samples from Gazipur Godown and FPS outlets. Laboratory analysis confirmed Fair Average Quality (FAQ) compliance, with moisture levels within prescribed 12% limit."
+    },
+    {
+      "chunk_id": "stock_received_records#3",
+      "text": "Submitted by:\n\n\n(S. C. YADAV / B. L. MEENA)\nAdditional Commissioner (PDS & Stock Audit)\nDept of Food, Supplies & Consumer Affairs, GNCTD, Delhi"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ministry_defence/noc_construction_clearance",
+  "department": "ministry_defence",
+  "section": "noc_construction_clearance",
+  "title": "NOC / construction clearance records",
+  "topic": "clearance",
+  "source_file": "ministry_defence_noc_construction_clearance.docx",
+  "chunks": [
+    {
+      "chunk_id": "noc_construction_clearance#0",
+      "text": "Section: noc_construction_clearance\n\nHEADQUARTERS MAHARASHTRA & GUJARAT AREA\nLOCAL MILITARY AUTHORITY (LMA) & MINISTRY OF DEFENCE\nSTATION HEADQUARTERS, COLABA MILITARY STATION, MUMBAI - 400005\n\nFile Ref. No.: HQ-MG/LMA/NOC-CONST/2000/08\t\t\t\t\tDated: 05th April 2000\n\n――――――――――――――――――――――――――――――――――――――――――――――――――――――――――\n\nREGISTER OF NO OBJECTION CERTIFICATES (NOC), MILITARY SECURITY CLEARANCES FOR CIVIL CONSTRUCTION, AND HEIGHT RESTRICTION SANCTIONS IN SOUTHERN COMMAND\nSUBJECT: Inspection Report on Security Clearances Issued by HQ M&G Area, Works of Defence Act 1903 Guidelines, Security Evaluation of High-Rise Proposals in Proximity to Colaba Military Station, NOC Letter Issued to Adarsh CHS (CS No. 652/653), and Naval Station Security Reviews.\n\n1. MILITARY SECURITY CLEARANCE REGIME & WORKS OF DEFENCE ACT\n\n1.1 Under the Works of Defence Act, 1903 and Ministry of Defence security directives, any civil construction proposal situated within 100 meters (or 500 meters for sensitive ammunition depots / signal complexes) of a military installation requires a formal No Objection Certificate (NOC) from the Local Military Authority (LMA)."
+    },
+    {
+      "chunk_id": "noc_construction_clearance#1",
+      "text": "1.2 High-rise buildings erected adjacent to military garrisons pose severe security vulnerabilities, including visual surveillance overlooking defense establishments, potential sniper perches, and communications interference.\n\n2. MASTER NOC LOG & SECURITY CLEARANCE AUDIT (HQ M&G AREA)\n\n2.1 Log of NOC applications received, security evaluations conducted, and decision outcomes processed by HQ M&G Area / Station HQ Colaba between 1999 and 2005:\n\n3. DETAILED EXAMINATION OF NOC ISSUED TO ADARSH CHS\n\n3.1 Issuance of NOC dated April 5, 2000: Letter Ref `HQ-MG/LMA/542/2000` signed by Major General / GOC HQ Maharashtra & Gujarat Area was issued to the Collector of Mumbai and Adarsh CHS, stating that the Local Military Authority had 'no objection' from a security standpoint to the allotment of Plot CS No. 652/653 for construction of a 6-storey residential building.\n\n3.2 Absence of Higher Approval: Internal audit reveals that the GOC HQ M&G Area issued the NOC without obtaining concurrence from the General Officer Commanding-in-Chief (GOC-in-C) Southern Command, Army Headquarters, or the Ministry of Defence. Furthermore, the NOC was later illegally utilized by MCGM and developers to construct a 31-storey super-structure directly overlooking sensitive military installations."
+    },
+    {
+      "chunk_id": "noc_construction_clearance#2",
+      "text": "4. NAVAL COMMAND SECURITY OBJECTIONS AND COASTAL DEFENSE AUDITS\n\n4.1 Western Naval Command Concerns: In 2009–2010, the Flag Officer Commanding-in-Chief (FOC-in-C) Western Naval Command formally raised grave security objections, pointing out that the 31-storey Adarsh building overlooks the Naval Helipad, Officers' Mess, and sensitive coastal surveillance batteries.\n\n5. ROUTINE INFRASTRUCTURE & TELECOM NOC CLEARANCES\n\n5.1 Municipal Infrastructure Permits: Processing of routine NOCs for BEST electrical sub-stations and municipal water pipeline repairs along SBS Road, Colaba.\n\nIssued by:\n\n\n(BRIG. A. K. GUPTA / COL. S. S. JOSH)\nStation Commander & Local Military Authority (LMA)\nColaba Military Station, HQ M&G Area, Mumbai"
+    }
+  ]
+}

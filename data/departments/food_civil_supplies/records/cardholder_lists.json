@@ -1,0 +1,22 @@
+{
+  "id": "food_civil_supplies/cardholder_lists",
+  "department": "food_civil_supplies",
+  "section": "cardholder_lists",
+  "title": "Cardholder lists",
+  "topic": "cardholders",
+  "source_file": "food_civil_supplies_cardholder_lists.docx",
+  "chunks": [
+    {
+      "chunk_id": "cardholder_lists#0",
+      "text": "Section: cardholder_lists\n\nDEPARTMENT OF FOOD, SUPPLIES & CONSUMER AFFAIRS\nGOVERNMENT OF NATIONAL CAPITAL TERRITORY OF DELHI\nRATIONING & BENEFICIARY RECORDS MANAGEMENT DIVISION, VIKAS BHAWAN, NEW DELHI\n\nFile Ref. No.: DFS/PDS/CARDS/2012/LIST-109\t\t\t\t\tDated: 12th January 2012\n\n――――――――――――――――――――――――――――――――――――――――――――――――――――――――――\n\nMASTER CARDHOLDER REGISTRY, CATEGORY-WISE RATION CARD ALLOCATION, BENEFICIARY ADDITION/DELETION AUDIT, AND IDENTITY VERIFICATION LOGS\nSUBJECT: Circle-Wise Breakdown of APL, BPL, Antyodaya Anna Yojana (AAY), and Annapurna Ration Card Distribution in East and North-East Districts, Sample Household Registry Extract for Sundar Nagari, Bogus Card Elimination Drive, and Monthly Income Verification Protocols.\n\n1. STATUTORY CATEGORIZATION OF RATION CARDS\n\n1.1 Under the Delhi Targeted Public Distribution System (TPDS) guidelines, ration cards are issued under four distinct categories based on household income criteria:\na) Above Poverty Line (APL): Households with annual income exceeding ₹ 24,200/-.\nb) Below Poverty Line (BPL): Households with annual income below ₹ 24,200/- (entitled to 35 kg foodgrains at subsidized prices).\nc) Antyodaya Anna Yojana (AAY): Poorest of the poor families, destitute households, widow-headed families (entitled to 35 kg foodgrains per month at heavily subsidized rates: ₹ 2/kg wheat, ₹ 3/kg rice).\nd) Annapurna Scheme: Indigent senior citizens aged 65 or above without family support (entitled to 10 kg free foodgrains)."
+    },
+    {
+      "chunk_id": "cardholder_lists#1",
+      "text": "2. CIRCLE-WISE RATION CARD ALLOCATION MATRIX (EAST ZONE)\n\n2.1 Master distribution metrics of active ration cardholders registered across Circles 58 to 63 in East and North-East Delhi as of January 2012:\n\n3. SAMPLE CARDHOLDER REGISTRATION EXTRACT - CIRCLE 60 (SUNDAR NAGARI)\n\n3.1 Sample Record Verification Entries from Circle 60 Register (Ward 212, Sundar Nagari):\n• Card No. BPL-60-04812: Head of Family: Santosh Koli; Category: BPL; Assigned FPS: No. 4082; Family Members: 5; Address: E-Block, Sundar Nagari, Delhi-110093.\n• Card No. AAY-60-00104: Head of Family: Ram Pyari; Category: AAY; Assigned FPS: No. 4105; Family Members: 3; Address: F-Block, Sundar Nagari, Delhi-110093.\n• Card No. BPL-60-05199: Head of Family: Mohd. Yasin; Category: BPL; Assigned FPS: No. 4210; Family Members: 6; Address: E-Block, Sundar Nagari, Delhi-110093.\n\n4. BOGUS CARD ELIMINATION DRIVE & GHOST BENEFICIARY SCRUTINY\n\n4.1 Physical Verification Drive (2011-12): Door-to-door verification conducted across Circle 60 resulted in the cancellation of 415 ghost / duplicate BPL cards and 82 AAY cards where families had migrated, passed away, or exceeded income ceilings."
+    },
+    {
+      "chunk_id": "cardholder_lists#2",
+      "text": "5. ADMINISTRATIVE PROCEDURES FOR CARD TRANSFER AND ADDRESS CHANGE\n\n5.1 Standard Application Protocols: Processing rules for Surrender Certificates, inclusion of newborn family members, and transfer of FPS mapping upon residential change within NCT of Delhi.\n\nCompiled by:\n\n\n(V. K. SHARMA / M. P. RAWAT)\nAssistant Commissioner (Beneficiary Records)\nDept of Food, Supplies & Consumer Affairs, GNCTD, Delhi"
+    }
+  ]
+}

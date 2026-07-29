@@ -1,0 +1,30 @@
+{
+  "id": "supreme_court/rti_applicability_guidance",
+  "department": "supreme_court",
+  "section": "rti_applicability_guidance",
+  "title": "RTI applicability guidance",
+  "topic": "guidelines",
+  "source_file": "supreme_court_rti_applicability_guidance.docx",
+  "chunks": [
+    {
+      "chunk_id": "rti_applicability_guidance#0",
+      "text": "Section: rti_applicability_guidance\n\nSUPREME COURT OF INDIA\nOFFICE OF THE CENTRAL PUBLIC INFORMATION OFFICER & LEGAL CELL\nTILAK MARG, NEW DELHI - 110201\n\nFile Ref. No.: SCI/RTI/LEGAL-OP/2012/CPIO-058\t\t\t\t\tDated: 10th September 2012\n\n――――――――――――――――――――――――――――――――――――――――――――――――――――――――――\n\nLEGAL OPINION & ADMINISTRATIVE GUIDANCE ON APPLICABILITY OF RTI ACT 2005 TO THE OFFICE OF THE CHIEF JUSTICE OF INDIA\nSUBJECT: Analysis of Statutory Definition of 'Public Authority' under Section 2(h), Scope of Fiduciary Exemption under Section 8(1)(e), Personal Privacy under Section 8(1)(j), Third-Party Consultation under Section 11, and Judicial Independence Safeguards.\n\n1. STATUTORY CONTEXT & JURISDICTIONAL QUESTION\n\n1.1 Following the enactment of the Right to Information Act, 2005 (Act No. 22 of 2005), the Supreme Court of India designated a Registrar as the Central Public Information Officer (CPIO) and the Registrar General as the First Appellate Authority (FAA) under Section 19(1). Supreme Court Right to Information Rules, 2007 were formally framed and published in the Gazette of India."
+    },
+    {
+      "chunk_id": "rti_applicability_guidance#1",
+      "text": "1.2 A primary constitutional and statutory question continuously arising before the CPIO is whether the 'Office of the Chief Justice of India' is a distinct public authority separate from the 'Supreme Court of India', and whether administrative/judicial notes, consultation letters regarding judicial appointments, and confidential asset declarations submitted by judges fall within the mandatory disclosure regime of the RTI Act.\n\n2. INTERPRETATION OF SECTION 2(h), SECTION 8(1)(e), AND SECTION 8(1)(j)\n\n2.1 Public Authority under Section 2(h): Article 124 of the Constitution establishes the Supreme Court of India. The Supreme Court as an institution is unquestionably a 'Public Authority' under Section 2(h)(a). However, the CPIO Registry has maintained that the CJI holds a unique constitutional position as head of the judiciary, and information held in the personal custody of CJI (such as asset declarations and Collegium consultation notes) is distinct from administrative records held by the Registry."
+    },
+    {
+      "chunk_id": "rti_applicability_guidance#2",
+      "text": "2.2 Fiduciary Relationship Exemption (Section 8(1)(e)): Asset declarations submitted by Hon'ble Judges to the CJI pursuant to the May 7, 1997 Full Court Resolution are held by the CJI in a confidential fiduciary capacity. Section 8(1)(e) explicitly exempts information available to a person in his fiduciary relationship, unless the competent authority is satisfied that the larger public interest warrants the disclosure of such information.\n\n2.3 Personal Privacy Exemption (Section 8(1)(j)): Personal asset details, financial liabilities, and family income details of judges constitute personal information, the disclosure of which has no relationship to any public activity or interest, and would cause unwarranted invasion of the privacy of the individual under Section 8(1)(j).\n\n3. CPIO DISPOSAL LOG & STATISTICAL ANALYSIS\n\n3.1 Summary of RTI Applications and Appeals Handled by Supreme Court Registry (2007–2012):"
+    },
+    {
+      "chunk_id": "rti_applicability_guidance#3",
+      "text": "4. ANALYSIS OF JUDICIAL PRECEDENTS & HIGH COURT RULINGS\n\n4.1 Delhi High Court Division Bench Judgment (2010): In *CPIO, Supreme Court of India v. Subhash Chandra Agrawal*, the Division Bench of the Delhi High Court held that the Office of the Chief Justice of India is a 'Public Authority' under Section 2(h) of the RTI Act, and that information regarding whether judges have submitted asset declarations does not violate privacy. However, the Court recognized that the actual contents of personal asset declarations may be exempt under Section 8(1)(j) unless public interest is established.\n\n4.2 Supreme Court Appeal Status (Civil Appeal No. 10044 of 2010): The Supreme Court Registry filed a Special Leave Petition / Civil Appeal before the Supreme Court challenging the Delhi High Court judgment, arguing that uninhibited disclosure of internal consultations and confidential asset notes could impair judicial independence and constitutional functioning under Article 124. The matter stands referred to a 5-Judge Constitution Bench."
+    },
+    {
+      "chunk_id": "rti_applicability_guidance#4",
+      "text": "5. STANDARD OPERATING PROCEDURES FOR CPIO DISPOSALS\n\n5.1 Procedural Directives for Handling RTI Queries:\na) Judicial Records: Queries seeking certified copies of court orders, pleadings, or judgments must be directed to apply under the Supreme Court Rules, 1966 (Order XIII), which override RTI provisions for judicial documents as per established case law.\nb) Administrative Records: Non-confidential registry records (e.g., budget allocations, court statistics, staff rules) shall be disclosed within 30 days.\nc) Third-Party Notices: Where information relates to individual judges or third parties, statutory notice under Section 11 must be issued before any consideration of disclosure.\n\nPrepared by:\n\n\n(SMT. ASHIMA CHHIBBER / DEEPAK JAIN)\nCentral Public Information Officer (CPIO)\nSupreme Court of India, Tilak Marg, New Delhi"
+    }
+  ]
+}
