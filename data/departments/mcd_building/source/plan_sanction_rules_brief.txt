@@ -1,0 +1,40 @@
+FEES AND CHARGES
+Standard Building Permit Fee: Rs. 10/- per sq.m of covered/built-up area (including basement and stilt floors) for all buildings (UBBL Annexure III, Clause 1.a.i).
+Storage/Warehouse/Godown Fee: Rs. 2/- per sq.m of built-up area (UBBL Annexure III, Clause 1.a.i).
+SARAL Scheme (Small Residential Plots): Flat rate based on colony category. Categories A & B = Rs. 5000/- per sq.m; Categories C & D = Rs. 2500/- per sq.m; Categories E, F, G & H = Rs. 1500/- per sq.m (UBBL Annexure III, Clause 1.a.i).
+Rejection policy: If a building permit application is rejected, no refund of fees shall be made (UBBL Annexure III, Clause 1.v).
+STATUTORY TIMELINES
+Site Inspection: Within 10 days from receipt of application (Handbook, Clause 6.i).
+Scrutiny: Within 30 days from the date of inspection (Handbook, Clause 6.ii).
+Sanction Release (No Objections): Within 60 days from the date of submission (Handbook, Clause 6.ii).
+Sanction Release (With Objections): Party intimated within 45 days of submission. Compliance required within 30 days. Permit released within 15 days of compliance (Handbook, Clause 6.ii).
+Deemed Sanction Trigger: If the authority fails to intimate refusal or sanction within the stipulated time limit (or 30 days, whichever is less), the plan is deemed sanctioned upon written notice by the applicant (UBBL Clause 2.18.1.1 & 2.19).
+Outside Agency NOC Timeline: Outside agencies must issue approval/refusal within 15 days, failing which the NOC is deemed issued (UBBL Clause 2.18.2.1).
+REQUIRED DOCUMENTS
+Form-I (Common Application Form) and Specification Form (Handbook, Clause A.1-2).
+Certificate of Supervision I (Architect/Engineer) and II (Plumber/Engineer) (Handbook, Clause A.3-4).
+Valid Registration Certificates and Appointment Letters of Architect/Plumber (Handbook, Clause A.5-7).
+Rs. 10/- Affidavits: For ownership/vacant plot, non-stacking of materials, and Delhi Dev Act Section 29(1) (Handbook, Clause A.8, 9, 12).
+Rs. 100/- Indemnity Bond (attested by First Class Magistrate) if constructing a basement (Handbook, Clause A.11).
+Possession Plan, Lease Deed, and Lessor NOC if lease is unexecuted (Handbook, Clause A.13-14 & UBBL Clause 2.12.1).
+4 Sets of Plans: Building (with water harvesting), Landscape, Parking, and Layout (Handbook, Clause A.15-18).
+Structural Safety Certificate and Water Harvesting Certificate (Handbook, Clause A.19-21).
+High-Risk Buildings: Soil Testing Report from Geo-Technical Engineer (Handbook, Clause A).
+MANDATORY NOCS / APPROVALS
+Agencies: ASI/NMA, DFS (Delhi Fire Services), AAI, MoEF&CC, DUAC (Delhi Urban Art Commission), HCC (Heritage Conservation Committee), DMRC (UBBL Clause 2.18.2.1).
+Industrial/Hazardous: Chief Inspector of Factories, Chief Controller of Explosives (Handbook, Clause A.27-28).
+GROUNDS FOR REFUSAL AND REVOCATION
+Rejection: Failure of the owner/applicant to remove communicated shortcomings within 15 days (or 30 days as per Handbook timeline) of receipt (Handbook, Clause 6.ii).
+Revocation: False statement or misrepresentation of material facts in the application (Order 2.9.1 & Handbook Clause 6).
+Revocation: Building permits found in violation of bye-laws/Master Plan/Zonal Plan Regulations, or violations occurring during construction (Handbook Clause 6).
+STANDARD CONDITIONS IMPOSED
+Indemnification: Owner must indemnify the Authority from structural safety issues and adjacent property damages, especially for basements (UBBL Clause 4.3.f & 7.4.7).
+OFFICER DESIGNATIONS
+Sanctioning Authority / Competent Authority (UBBL Generic).
+Commissioner, MCD (Heritage/Specific).
+Vice Chairman DDA / Chairman NDMC (Heritage/Specific).
+Chief Fire Officer, Delhi Fire Service (Handbook Clause 6.iii).
+VARIATION RULES
+Residential Risk Matrix (Table 3.1): Up to 105 sq.m = Very Low Risk; 105-500 sq.m = Low Risk; Above 500 sq.m = Moderate Risk; 15m+ height/Group Housing = High Risk.
+Storage/Warehouse Risk Matrix (Table 3.2): Up to 250 sq.m = Very Low Risk; 250-2000 sq.m = Low/Moderate Risk; Above 2000 sq.m = High Risk.
+Low Density Residential Area: Requires NOC from Competent Authority from a land acquisition point of view (UBBL Clause 2.12.10).
