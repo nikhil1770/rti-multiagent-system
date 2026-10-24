@@ -1,0 +1,52 @@
+{
+"department": "mcd_building",
+"section": "plan_sanction_cases",
+"title": "Synthetic Case Records — Building Plan Sanction Orders",
+"topic": "building plan sanction",
+"source_file": "plan_sanction_cases.docx",
+"provenance": "synthetic_grounded",
+"grounded_in": "Unified Building Bye-Laws 2016 and Handbook",
+"grounded_in_url": "https://dda.gov.in/sites/default/files/2022-01/UBBL_2016_Notified.pdf",
+"chunks": [
+{
+  "chunk_id": "plan_sanction_cases#1",
+  "text": "Order No. MCD/BPS/2026/001. Sanctioning Authority: Commissioner, MCD. Subject: Grant of Building Permit for Residential Plot. Applicant: Ramesh Patel. Plot ID: 1045, Vasant Kunj. The application submitted via the Common Application Form (CAF) along with the requisite ownership lease deed, structural safety certificate, and supervision certificates has been scrutinized. Built-up area is calculated at 350 sq.m. Building permit fee assessed at Rs. 10/- per sq.m, totaling Rs. 3,500/- as per Annexure III, Clause 1.a.i. No objections were found during the site inspection conducted within 10 days of application. The building plan is hereby SANCTIONED. The applicant must strictly adhere to the Unified Building Bye-Laws 2016."
+},
+{
+  "chunk_id": "plan_sanction_cases#2",
+  "text": "Order No. MCD/BPS/2026/002. Sanctioning Authority: Commissioner, MCD. Subject: Grant of Building Permit under SARAL Scheme. Applicant: Anjali Desai. Plot ID: 88, Defence Colony (Category A). The CAF and landscape plan have been reviewed. As a small residential plot under the SARAL scheme in a Category A colony, the flat rate fee of Rs. 5000/- per sq.m applies. Total fee paid for 150 sq.m is Rs. 7,50,000/-. Required affidavits on Rs.10/- non-judicial stamp paper for non-stacking of building materials verified. The application is APPROVED. Sanction released within the statutory 60-day limit."
+},
+{
+  "chunk_id": "plan_sanction_cases#3",
+  "text": "Order No. MCD/BPS/2026/003. Sanctioning Authority: Competent Authority. Subject: Grant of Building Permit under SARAL Scheme. Applicant: Vikram Singh. Plot ID: 42, Lajpat Nagar (Category C). The application is processed within the stipulated 30 days of site inspection. Colony falls under Category C; hence flat rate fee of Rs. 2500/- per sq.m applied for 200 sq.m plot, totaling Rs. 5,00,000/-. Certificate of Supervision-I &amp; II from registered Architect and Plumber verified. Application is SANCTIONED. Applicant to ensure no debris removal nuisance."
+},
+{
+  "chunk_id": "plan_sanction_cases#4",
+  "text": "Order No. MCD/BPS/2026/004. Sanctioning Authority: Sanctioning Authority, MCD. Subject: Deemed Sanction of Building Plan. Applicant: Kavita Verma. Plot ID: 12, Seelampur (Category E). Notice for erection submitted with all forms. 30 days have elapsed since receipt of the notice and no intimation of refusal or sanction was communicated to the applicant. The applicant brought this failure to the notice of the Authority in writing. Therefore, under Clause 2.19, the building plan is DEEMED TO HAVE BEEN SANCTIONED. Flat rate fee of Rs. 1500/- per sq.m (Category E) was deposited. Construct strictly as per UBBL 2016."
+},
+{
+  "chunk_id": "plan_sanction_cases#5",
+  "text": "Order No. MCD/BPS/2026/005. Sanctioning Authority: Competent Authority. Subject: Grant of Building Permit for Storage/Warehouse. Applicant: Apex Logistics Pvt Ltd. Plot ID: W-19, Okhla Industrial Area. Covered area on all floors built-up area is 1500 sq.m (Moderate Risk, Category B storage). Building permit fee calculated at Rs. 2/- per sq.m as per Annexure III, Clause 1.a.i., totaling Rs. 3,000/-. Soil Testing Report from Geo-Technical Engineer submitted. Application is APPROVED."
+},
+{
+  "chunk_id": "plan_sanction_cases#6",
+  "text": "Order No. MCD/BPS/2026/006. Sanctioning Authority: Commissioner, MCD. Subject: Grant of Building Permit. Applicant: Sunita Sharma, residing at 44 Nehru Marg, New Delhi, Phone 9810000000, Aadhar [Aadhaar Redacted]. Plot ID: 55, South Ext. The CAF, site plan, and ownership documents were successfully verified against the applicant's personal identification details. Fee assessed at Rs. 10/- per sq.m. The building plan is SANCTIONED. (Note: File flagged for exemption 8(1)(j) due to explicit presence of personal identifiable address and phone number)."
+},
+{
+  "chunk_id": "plan_sanction_cases#7",
+  "text": "Order No. MCD/BPS/2026/007. Sanctioning Authority: Sanctioning Authority, MCD. Subject: Conditional Grant of Building Permit. Applicant: Rohan Gupta. Plot ID: 101, Karol Bagh. Application for a high-risk building (height above 15m). Permit fee of Rs. 10/- per sq.m paid. The application is APPROVED WITH CONDITIONS. Condition 1: As per Clause 2.18.2.1, clearance from the Chief Fire Officer, Delhi Fire Services is mandatory. Sanction is valid only after getting this NOC. Condition 2: Indemnity bond on Rs.100/- paper for basement construction must be submitted before excavation begins."
+},
+{
+  "chunk_id": "plan_sanction_cases#8",
+  "text": "Order No. MCD/BPS/2026/008. Sanctioning Authority: Vice Chairman DDA. Subject: Conditional Grant of Building Permit (Heritage Precinct). Applicant: Global Innovators Ltd. Plot ID: H-2, Connaught Place. Application for structural alterations. APPROVED WITH CONDITIONS. Condition 1: Final NOC from Heritage Conservation Committee (HCC) is mandatory. The applicant submitted proprietary structural load models and confidential financial valuations of the property (valued at Rs. 450 Crores) which are protected trade secrets. (Note: File flagged for exemption 8(1)(d) due to third-party commercial confidence and proprietary financial models)."
+},
+{
+  "chunk_id": "plan_sanction_cases#9",
+  "text": "Order No. MCD/BPS/2026/009. Sanctioning Authority: Commissioner, MCD. Subject: Rejection of Building Permit. Applicant: Suresh Kumar. Plot ID: 33, Rohini. The site was inspected and shortcomings were communicated on 05-06-2026, specifically regarding the absence of a valid NOC from the Lessor for an unexecuted lease deed. As the owner failed to remove the communicated shortcomings within 15 days from the date of receipt, the application is hereby REJECTED. In accordance with Annexure III, Clause 1.v, the paid building permit fees are forfeited and no refund shall be made."
+},
+{
+  "chunk_id": "plan_sanction_cases#10",
+  "text": "Order No. MCD/BPS/2026/010. Sanctioning Authority: Competent Authority. Subject: Revocation and Ongoing Enforcement. Applicant: Meena Reddy. Plot ID: 77, Dwarka. Show cause notice issued. During scrutiny, it was discovered there was a misrepresentation of material facts regarding the ownership document. Under Clause 2.9.1, the Authority is initiating REVOCATION of the building permit. Furthermore, the file is PENDING handover to the Anti-Corruption Branch for an active, ongoing criminal investigation into the fraudulent sale deed submitted. (Note: File flagged for exemption 8(1)(h) due to active ongoing law enforcement investigation)."
+}
+]
+}

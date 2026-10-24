@@ -1,0 +1,52 @@
+{
+"department": "mcd_building",
+"section": "occupancy_certificate_cases",
+"title": "Synthetic Case Records — Occupancy and Completion Certificates",
+"topic": "occupancy certificate",
+"source_file": "occupancy_certificate_cases.docx",
+"provenance": "synthetic_grounded",
+"grounded_in": "Unified Building Bye-Laws 2016 and Handbook",
+"grounded_in_url": "https://dda.gov.in/sites/default/files/2022-01/UBBL_2016_Notified.pdf",
+"chunks": [
+{
+  "chunk_id": "occupancy_certificate_cases#1",
+  "text": "Order No. MCD/OCC/2026/101. Sanctioning Authority: Competent Authority. Subject: Grant of Completion-cum-Occupancy Certificate. Applicant: Rakesh Sharma. Plot ID: 22, Vasant Vihar. The notice of completion (Appendix B-3) was submitted along with 3 sets of completion plans and the Rs. 10/- per sq.m fee. The site was inspected within the statutory 60-day period. No deviations found from the sanctioned plan. The Completion-cum-Occupancy Certificate is hereby ISSUED."
+},
+{
+  "chunk_id": "occupancy_certificate_cases#2",
+  "text": "Order No. MCD/OCC/2026/102. Sanctioning Authority: Competent Authority. Subject: Refusal of Completion Certificate. Applicant: Neha Gupta. Plot ID: 45, Rajouri Garden. The notice of completion was reviewed. During the inspection within 60 days of receipt, unauthorized deviations were noted in the setbacks. As per UBBL Clause 2.26.3.b, this communication serves as a REJECTION of the occupancy certificate. The applicant must rectify the structural deviations and re-apply."
+},
+{
+  "chunk_id": "occupancy_certificate_cases#3",
+  "text": "Order No. MCD/OCC/2026/103. Sanctioning Authority: Competent Authority. Subject: Grant of Provisional Occupancy Certificate (POC). Applicant: Sunrise Co-op Group Housing Society. Plot ID: GH-12, Dwarka. Application for POC and C.C. submitted together. Inspection conducted and EWS fund levied. Pre-occupancy charges of Rs. 25,000/- per dwelling unit collected. The POC is APPROVED. The final C.C. remains pending until clearance of the completion plan is received from DUAC."
+},
+{
+  "chunk_id": "occupancy_certificate_cases#4",
+  "text": "Order No. MCD/OCC/2026/104. Sanctioning Authority: Competent Authority. Subject: Grant of Occupancy Certificate. Applicant: Rajesh Kumar, residing at 12B, Model Town, Delhi, Phone 9899001122, Email rajesh.k@email.com. Plot ID: 19, Model Town. Inspection up to plinth level was cleared with a Rs. 500/- fee. Final inspection completed and all structural drawings verified. The OCC is APPROVED. (Note: File flagged for exemption 8(1)(j) due to presence of explicit personal contact information)."
+},
+{
+  "chunk_id": "occupancy_certificate_cases#5",
+  "text": "Order No. MCD/OCC/2026/105. Sanctioning Authority: Competent Authority. Subject: Revocation of Occupancy Certificate. Applicant: Amit Desai. Plot ID: 88, Janakpuri. It has been brought to the attention of the Authority that the Completion Certificate issued on 12-01-2026 was obtained on misrepresentation regarding the structural engineer's qualifications. Under UBBL Clause 2.29.1.b, the Occupancy Certificate is hereby REVOKED. (Note: File flagged for exemption 8(1)(h) as the matter has been forwarded for active criminal investigation regarding forged signatures)."
+},
+{
+  "chunk_id": "occupancy_certificate_cases#6",
+  "text": "Order No. MCD/OCC/2026/106. Sanctioning Authority: Competent Authority. Subject: Grant of Occupancy Certificate (Commercial). Applicant: TechNova Solutions Pvt Ltd. Plot ID: C-4, Nehru Place. Commercial building pre-occupancy charge of Rs. 2000/- per sq.m paid. Mandatory NOCs from the Chief Fire Officer and Lift Inspector (GNCTD) have been verified. The proprietary server cooling schematics submitted for the HVAC clearance are protected under NDA. The OCC is ISSUED. (Note: File flagged for exemption 8(1)(d) due to third-party commercial confidence regarding the server infrastructure)."
+},
+{
+  "chunk_id": "occupancy_certificate_cases#7",
+  "text": "Order No. MCD/OCC/2026/107. Sanctioning Authority: Competent Authority. Subject: Pending Occupancy Certificate Query. Applicant: Meenakshi Iyer. Plot ID: 31, Green Park. Notice of completion received. The application is currently PENDING. The applicant has failed to submit the mandatory valid extension of time up to the date of applying for the Completion Certificate as required for residential plotted development. Applicant has 15 days to comply before formal rejection."
+},
+{
+  "chunk_id": "occupancy_certificate_cases#8",
+  "text": "Order No. MCD/OCC/2026/108. Sanctioning Authority: Competent Authority. Subject: Grant of Completion-cum-Occupancy Certificate. Applicant: Vikram Singh. Plot ID: 10, Lajpat Nagar. Notice of completion and completion fee of Rs. 10/- per sq.m of covered area received. The structural deviations certificate was verified by the registered Architect. No major infractions found during the 60-day inspection window. The OCC is hereby ISSUED."
+},
+{
+  "chunk_id": "occupancy_certificate_cases#9",
+  "text": "Order No. MCD/OCC/2026/109. Sanctioning Authority: Competent Authority. Subject: Conditional Occupancy Certificate. Applicant: Pioneer Institutions. Plot ID: INST-5, Rohini. Institutional building pre-occupancy charge of Rs. 500/- per sq.m paid. The application is APPROVED WITH CONDITIONS. Condition 1: Clearance from the Chief Controller of Explosives for the laboratory gas storage must be maintained. Condition 2: Final approval of Sewerage Schemes from Delhi Jal Board must be secured within 30 days."
+},
+{
+  "chunk_id": "occupancy_certificate_cases#10",
+  "text": "Order No. MCD/OCC/2026/110. Sanctioning Authority: Competent Authority. Subject: Rejection of Occupancy Certificate. Applicant: Sanjay Verma. Plot ID: 50, Defence Colony. Inspection completed within the 60-day mandate. The applicant failed to provide the mandatory NOC from the lessor despite the lease deed not being executed. Furthermore, the 8x10 coloured building photographs were not submitted. Under UBBL Clause 2.26.3.b, the application for Completion Certificate is REJECTED."
+}
+]
+}

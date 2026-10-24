@@ -1,0 +1,23 @@
+{
+  "id": "delhi_food/ration_card_rules_brief",
+  "department": "delhi_food",
+  "section": "ration_card_rules_brief",
+  "title": "Ration Card Rules Brief",
+  "topic": "",
+  "source_file": "ration_card_rules_brief.txt",
+  "provenance": "real_distilled",
+  "chunks": [
+    {
+      "chunk_id": "ration_card_rules_brief#0",
+      "text": "FEES AND CHARGES\n\n* No fee is collected for inclusion, deletion, or change of name/address in the Ration Card (FAQ Q15).\n\n* Fee for new ration card issuance: NOT SPECIFIED IN SOURCES.\n\nSTATUTORY TIMELINES\n\n* Issue of a new Ration Card: 30 days (Citizen Charter).\n\n* Addition or Deletion of family member: 30 days (Citizen Charter).\n\n* Change of address or FPS within the same circle: 30 days (Citizen Charter).\n\n* Surrender of Food Card: Same day (Citizen Charter).\n\n* Note: Timelines are strictly subject to verification and the availability of beneficiary vacancies under the 72.78 lakh G.O.I. limit (FAQ Q7).\n\nREQUIRED DOCUMENTS\n\n* For New Card: Aadhaar Card of all family members, passport-size photo of Head of Family (HoF), latest electricity bill, and residence proof if different from HoF’s Aadhaar address (FAQ Q8).\n\n* For Address Change: Copy of Ration Card, proof of new address, copy of electricity bill (FAQ Q13)."
+    },
+    {
+      "chunk_id": "ration_card_rules_brief#1",
+      "text": "* For Inclusion/Deletion: Copy of old NFS Ration Card, reasons for change, and copy of Aadhaar/EID for new inclusions (FAQ Q14).\n\n* For Servant: Authorization letter and address proof (FAQ Q32).\n\nMANDATORY NOCS / APPROVALS\n\n* NOT SPECIFIED IN SOURCES.\n\nGROUNDS FOR REFUSAL AND REVOCATION\n\n* Rejection if the maximum beneficiary limit of 72.78 lakh fixed by the Government of India has been exhausted (FAQ Q4 & Q7).\n\n* Rejection if the application fails document or physical verification by the FSO (FAQ Q7).\n\n* Explicit administrative cancellation grounds: NOT SPECIFIED IN SOURCES.\n\nSTANDARD CONDITIONS IMPOSED\n\n* NOT SPECIFIED IN SOURCES.\n\nOFFICER DESIGNATIONS\n\n* Competent Authority for Approval/Modifications: Food & Supply Officer (FSO) (Citizen Charter).\n\n* Appellate Authority: District Grievance Redressal Officer (Citizen Charter).\n\nVARIATION RULES\n\n* Head of Family (HoF): Must be the eldest female member (18 years & above). If none exists, the elder male member becomes HoF (FAQ Q2 & Q3)."
+    },
+    {
+      "chunk_id": "ration_card_rules_brief#2",
+      "text": "* Eligibility (Income): Households having an annual income of less than Rs. 1 Lakh (FAQ Q1).\n\n* Eligibility (Vulnerable Groups): Residents of slums/resettlement colonies, shelterless, transgenders, disabled persons, single women/widows, children without protection, and unskilled occupationally vulnerable groups (rag-pickers, casual labor, rickshaw drivers) (FAQ Q1).\n\nREFERENCE NUMBER FORMAT\n\n* NOT SPECIFIED IN SOURCES."
+    }
+  ]
+}

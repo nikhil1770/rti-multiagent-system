@@ -1,0 +1,27 @@
+{
+  "id": "mcd_building/property_tax_rules_brief",
+  "department": "mcd_building",
+  "section": "property_tax_rules_brief",
+  "title": "Property Tax Rules Brief",
+  "topic": "",
+  "source_file": "property_tax_rules_brief.txt",
+  "provenance": "real_distilled",
+  "chunks": [
+    {
+      "chunk_id": "property_tax_rules_brief#0",
+      "text": "FEES AND CHARGES\n\n- Residential Property Tax Rates: Calculated as a percentage of Annual Value based on colony categories (A & B: 12%, C to E: 11%, F to H: 7%) (Schedule FY 2025-26 Page 35).\n\n- Transfer Duty (Mutation) Fee: Surcharge on stamp duty. Over Rs. 25 lakhs: 3% for females/third gender, 4% for males/others. Up to Rs. 25 lakhs: 2% for females/third gender, 3% for males/others (Schedule FY 2025-26 Page 42 Clause D).\n\nSTATUTORY TIMELINES\n\n- Notice of Property Transfer (Mutation): Must be given within 3 months after execution/registration of instrument of transfer, or within 6 months from date of devolution of title in case of death (DMC Act Sec 128(1) & (2)).\n\n- Failure to give Notice: Transferor continues to be liable for payment of all property taxes until notice is given or recorded in books (DMC Act Sec 128(4)).\n\n- Tax Appeal Timeline: Appeal must be brought within 30 days next after the date of authentication of the assessment list under Section 124 or amendment under Section 126 (DMC Act Sec 170(a))."
+    },
+    {
+      "chunk_id": "property_tax_rules_brief#1",
+      "text": "REQUIRED DOCUMENTS FOR MUTATION (e-Change of Name)\n\n- Notarized Affidavit on Rs. 10/- stamp paper (Unified Policy Pages 1-2).\n\n- Notarized Indemnity Bond on Rs. 100/- stamp paper (Unified Policy Pages 1-2).\n\n- Death Certificate of previous owner (if applicable) (Unified Policy Pages 1-2).\n\n- Receipts of up-to-date property tax payments (Unified Policy Pages 1-2).\n\n- Complete chain of ownership documents (Unified Policy Pages 1-2).\n\n- Special Case Documents: Surviving Member Certificate (SMC), Registered/Un-registered Will, Succession Certificate / Letter of Administration, or NOC from legal heirs (Unified Policy Page 2 Clause B(ii)).\n\nREQUIRED DOCUMENTS FOR SELF-ASSESSMENT (SUNIYO Scheme)\n\n- 15-digit Unique Property Identification Code (UPIC) (FAQ SUNIYO Scheme Q5).\n\n- Previous tax receipts or relevant proof uploaded online (FAQ SUNIYO Scheme Q5(vi)).\n\nREBATES AND EXEMPTIONS\n\n- Lump-sum Timely Payment Rebate: 10% rebate if tax is paid in lump-sum during the first quarter (on or before June 30th) under Section 123B(3) (Schedule FY 2025-26 Rebate 1)."
+    },
+    {
+      "chunk_id": "property_tax_rules_brief#2",
+      "text": "- Senior Citizen / Women / Ex-Servicemen / Differently Abled Rebate: 30% rebate on covered space up to 100 sq. mtrs on self-occupied residential property under Section 114B (Schedule FY 2025-26 Rebate 2).\n\n- Online Filing Incentive: Additional 2% rebate on tax payable, capped at max tax Rs. 10,000/- and max rebate Rs. 200/- (Schedule FY 2025-26 Rebate 3).\n\n- Exemptions under Section 115(1): Vacant lands for agricultural use, village abadi residential occupied by original owner up to 100 sq. mtrs, public worship, public charity/medical/education free of charge, registered burial/cremation grounds, notified heritage premises, war widows/gallantry award winners (Schedule FY 2025-26 Exemptions i-ix).\n\nOFFICER DESIGNATIONS\n\n- Commissioner (DMC Act Sec 124, 128).\n\n- Assessing Officer concerned (FAQ SUNIYO Scheme Q10).\n\n- Circle Officer of the Zone (Unified Policy Page 1 Clause 4(1)(b)).\n\n- District Judge of Delhi (Appellate Authority under DMC Act Sec 169)."
+    },
+    {
+      "chunk_id": "property_tax_rules_brief#3",
+      "text": "VARIATION RULES\n\n- Rates vary strictly by Colony Category (A-H) and property usage (residential vs commercial/industrial) (Schedule FY 2025-26 Page 35).\n\nREFERENCE NUMBER FORMAT\n\n- 15-digit alphanumeric Unique Property Identification Code (UPIC) (FAQ SUNIYO Scheme Q5)."
+    }
+  ]
+}

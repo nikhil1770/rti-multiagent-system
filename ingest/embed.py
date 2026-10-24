@@ -38,6 +38,7 @@ def record_to_entries(record: dict, dept: str):
             "title": record.get("title", section),
             "topic": record.get("topic", ""),
             "source_file": record.get("source_file", ""),
+            "provenance": record.get("provenance", ""),
         }
         for i, chunk in enumerate(record["chunks"]):
             chunk_id = chunk.get("chunk_id", f"{section}#{i}")
@@ -87,14 +88,18 @@ def build_index() -> None:
             print(f"  {dept}: no records, skipped")
             continue
 
-        collection = reset_collection(dept)
-        # add in batches to stay well under any single-call limits
+        # Embed EVERYTHING first (with backoff). Only if that fully succeeds do
+        # we reset + repopulate — so a rate-limit failure never wipes the index.
+        embeddings = []
         for start in range(0, len(ids), 50):
-            batch_docs = docs[start:start + 50]
+            embeddings.extend(embed_documents(docs[start:start + 50]))
+
+        collection = reset_collection(dept)
+        for start in range(0, len(ids), 50):
             collection.add(
                 ids=ids[start:start + 50],
-                documents=batch_docs,
-                embeddings=embed_documents(batch_docs),
+                documents=docs[start:start + 50],
+                embeddings=embeddings[start:start + 50],
                 metadatas=metas[start:start + 50],
             )
         total_chunks += len(ids)

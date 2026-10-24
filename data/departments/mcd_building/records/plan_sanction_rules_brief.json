@@ -1,0 +1,31 @@
+{
+  "id": "mcd_building/plan_sanction_rules_brief",
+  "department": "mcd_building",
+  "section": "plan_sanction_rules_brief",
+  "title": "Plan Sanction Rules Brief",
+  "topic": "",
+  "source_file": "plan_sanction_rules_brief.txt",
+  "provenance": "real_distilled",
+  "chunks": [
+    {
+      "chunk_id": "plan_sanction_rules_brief#0",
+      "text": "FEES AND CHARGES\n\nStandard Building Permit Fee: Rs. 10/- per sq.m of covered/built-up area (including basement and stilt floors) for all buildings (UBBL Annexure III, Clause 1.a.i).\n\nStorage/Warehouse/Godown Fee: Rs. 2/- per sq.m of built-up area (UBBL Annexure III, Clause 1.a.i).\n\nSARAL Scheme (Small Residential Plots): Flat rate based on colony category. Categories A & B = Rs. 5000/- per sq.m; Categories C & D = Rs. 2500/- per sq.m; Categories E, F, G & H = Rs. 1500/- per sq.m (UBBL Annexure III, Clause 1.a.i).\n\nRejection policy: If a building permit application is rejected, no refund of fees shall be made (UBBL Annexure III, Clause 1.v).\n\nSTATUTORY TIMELINES\n\nSite Inspection: Within 10 days from receipt of application (Handbook, Clause 6.i).\n\nScrutiny: Within 30 days from the date of inspection (Handbook, Clause 6.ii).\n\nSanction Release (No Objections): Within 60 days from the date of submission (Handbook, Clause 6.ii)."
+    },
+    {
+      "chunk_id": "plan_sanction_rules_brief#1",
+      "text": "Sanction Release (With Objections): Party intimated within 45 days of submission. Compliance required within 30 days. Permit released within 15 days of compliance (Handbook, Clause 6.ii).\n\nDeemed Sanction Trigger: If the authority fails to intimate refusal or sanction within the stipulated time limit (or 30 days, whichever is less), the plan is deemed sanctioned upon written notice by the applicant (UBBL Clause 2.18.1.1 & 2.19).\n\nOutside Agency NOC Timeline: Outside agencies must issue approval/refusal within 15 days, failing which the NOC is deemed issued (UBBL Clause 2.18.2.1).\n\nREQUIRED DOCUMENTS\n\nForm-I (Common Application Form) and Specification Form (Handbook, Clause A.1-2).\n\nCertificate of Supervision I (Architect/Engineer) and II (Plumber/Engineer) (Handbook, Clause A.3-4).\n\nValid Registration Certificates and Appointment Letters of Architect/Plumber (Handbook, Clause A.5-7).\n\nRs. 10/- Affidavits: For ownership/vacant plot, non-stacking of materials, and Delhi Dev Act Section 29(1) (Handbook, Clause A.8, 9, 12)."
+    },
+    {
+      "chunk_id": "plan_sanction_rules_brief#2",
+      "text": "Rs. 100/- Indemnity Bond (attested by First Class Magistrate) if constructing a basement (Handbook, Clause A.11).\n\nPossession Plan, Lease Deed, and Lessor NOC if lease is unexecuted (Handbook, Clause A.13-14 & UBBL Clause 2.12.1).\n\n4 Sets of Plans: Building (with water harvesting), Landscape, Parking, and Layout (Handbook, Clause A.15-18).\n\nStructural Safety Certificate and Water Harvesting Certificate (Handbook, Clause A.19-21).\n\nHigh-Risk Buildings: Soil Testing Report from Geo-Technical Engineer (Handbook, Clause A).\n\nMANDATORY NOCS / APPROVALS\n\nAgencies: ASI/NMA, DFS (Delhi Fire Services), AAI, MoEF&CC, DUAC (Delhi Urban Art Commission), HCC (Heritage Conservation Committee), DMRC (UBBL Clause 2.18.2.1).\n\nIndustrial/Hazardous: Chief Inspector of Factories, Chief Controller of Explosives (Handbook, Clause A.27-28).\n\nGROUNDS FOR REFUSAL AND REVOCATION\n\nRejection: Failure of the owner/applicant to remove communicated shortcomings within 15 days (or 30 days as per Handbook timeline) of receipt (Handbook, Clause 6.ii)."
+    },
+    {
+      "chunk_id": "plan_sanction_rules_brief#3",
+      "text": "Revocation: False statement or misrepresentation of material facts in the application (Order 2.9.1 & Handbook Clause 6).\n\nRevocation: Building permits found in violation of bye-laws/Master Plan/Zonal Plan Regulations, or violations occurring during construction (Handbook Clause 6).\n\nSTANDARD CONDITIONS IMPOSED\n\nIndemnification: Owner must indemnify the Authority from structural safety issues and adjacent property damages, especially for basements (UBBL Clause 4.3.f & 7.4.7).\n\nOFFICER DESIGNATIONS\n\nSanctioning Authority / Competent Authority (UBBL Generic).\n\nCommissioner, MCD (Heritage/Specific).\n\nVice Chairman DDA / Chairman NDMC (Heritage/Specific).\n\nChief Fire Officer, Delhi Fire Service (Handbook Clause 6.iii).\n\nVARIATION RULES\n\nResidential Risk Matrix (Table 3.1): Up to 105 sq.m = Very Low Risk; 105-500 sq.m = Low Risk; Above 500 sq.m = Moderate Risk; 15m+ height/Group Housing = High Risk.\n\nStorage/Warehouse Risk Matrix (Table 3.2): Up to 250 sq.m = Very Low Risk; 250-2000 sq.m = Low/Moderate Risk; Above 2000 sq.m = High Risk."
+    },
+    {
+      "chunk_id": "plan_sanction_rules_brief#4",
+      "text": "Low Density Residential Area: Requires NOC from Competent Authority from a land acquisition point of view (UBBL Clause 2.12.10)."
+    }
+  ]
+}

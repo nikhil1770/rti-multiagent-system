@@ -1,0 +1,172 @@
+{
+"department": "delhi_food",
+"section": "fps_licensing_cases",
+"title": "Synthetic Case Records — Fair Price Shop Licensing & Allocation",
+"topic": "fair price shop licensing",
+"source_file": "fps_licensing_cases.docx",
+"provenance": "synthetic_grounded",
+"grounded_in": "fps_licensing_rules_brief.txt",
+"grounded_in_url": "",
+"chunks": [
+
+{
+
+  "chunk_id": "fps_licensing_cases#1",
+
+  "text": "1. App No: FPS/2026/REG/801. 2. Applicant: Sh. Mukesh Sharma. 3. Subject: Grant of Regular FPS License. 4. Eligibility: Age 34, Class XII pass, resident of Central District. 5. Fees: ₹1,000 application fee paid. 6. Decision: APPROVED. 7. Conditions: Applicant to deposit one-time license fee of ₹10,000 and a performance guarantee of ₹50,000 (450 attached Ration Cards). Operations must use approved e-PoS device."
+
+},
+
+{
+
+  "chunk_id": "fps_licensing_cases#2",
+
+  "text": "1. App No: FPS/2026/REG/802. 2. Applicant: Smt. Sunita Devi. 3. Subject: Grant of Regular FPS License. 4. Decision: REJECTED. 5. Grounds: Applicant is 19 years old. Fails the minimum age requirement of 21 years as per Clause 3(E). Application fee of ₹1,000 is non-refundable."
+
+},
+
+{
+
+  "chunk_id": "fps_licensing_cases#3",
+
+  "text": "1. File No: ENF/FPS/2026/441. 2. Licensee: M/s Gupta Provision Store. 3. Subject: Stock Variation (Minor). 4. Findings: Inspection revealed a deficit of 35 kg of SFAs. 5. Order: APPROVED WITH CONDITIONS. ₹2,000 forfeited from performance guarantee. 6. Compliance: Licensee must make good the deficit quantity within 1 week and remit the forfeited amount within 15 calendar days."
+
+},
+
+{
+
+  "chunk_id": "fps_licensing_cases#4",
+
+  "text": "1. File No: ENF/FPS/2026/442. 2. Applicant: Sh. Rajat Verma. 3. Subject: RTI Data Match. 4. Applicant Details: Ph: 9811223344, Addr: House 42, Gali No. 3, Karol Bagh, New Delhi. 5. Application: Renewal of existing FPS transition license. 6. Decision: APPROVED. Transition fee of ₹5,000 paid. 7. Note: Educational requirement waived as licensee was appointed prior to July 2015."
+
+},
+
+{
+
+  "chunk_id": "fps_licensing_cases#5",
+
+  "text": "1. File No: ENF/FPS/2026/443. 2. Licensee: Sh. Anil Kumar. 3. Subject: Operational Violation. 4. Findings: Shop found operating without displaying daily stock position or rates, and closed on Tuesday instead of mandatory Monday off. 5. Order: APPROVED WITH CONDITIONS. ₹15,000 forfeited by Authorized Officer for operational violations. Remittance due within 15 days."
+
+},
+
+{
+
+  "chunk_id": "fps_licensing_cases#6",
+
+  "text": "1. File No: ENF/FPS/2026/444. 2. Licensee: M/s Jai Hind Ration Depot. 3. Subject: Stock Variation (Serious Irregularity). 4. Findings: Diversion of 145 kg of wheat detected during vigilance raid. 5. Order: PENDING final quasi-judicial outcome. 6. Immediate Action: Entire performance security forfeited. License suspended immediately. FIR lodged under Sec 7 of Essential Commodities Act, 1955. Ongoing police investigation."
+
+},
+
+{
+
+  "chunk_id": "fps_licensing_cases#7",
+
+  "text": "1. App No: FPS/2026/REG/807. 2. Applicant: Nari Shakti Women Self-Help Group. 3. Subject: Grant of Regular FPS Licenses. 4. Decision: APPROVED. 5. Allocation: Granted 3 Fair Price Shops in South District (within the maximum limit of 5 for SHGs). 6. Fees: 3 x ₹10,000 one-time fees paid. Guarantees assessed per shop based on attached cards."
+
+},
+
+{
+
+  "chunk_id": "fps_licensing_cases#8",
+
+  "text": "1. File No: ENF/FPS/2026/445. 2. Licensee: Sh. Vikram Singh. 3. Subject: Stock Variation (Major Irregularity). 4. Findings: Deficit of 82 kg of rice detected. 5. Order: APPROVED WITH CONDITIONS. ₹10,000 forfeited from performance guarantee. 6. Action: License suspended forthwith as interim measure. Quasi-judicial proceedings initiated by Authorized Officer."
+
+},
+
+{
+
+  "chunk_id": "fps_licensing_cases#9",
+
+  "text": "1. App No: FPS/2026/REG/809. 2. Applicant: Delhi Grahak Sahakari Samiti Ltd. 3. Subject: FPS License Application. 4. Commercial Data: Bank account statement (A/c: 09988223344) shows internal trade margins and proprietary operational capital. 5. Decision: APPROVED. One-time fee of ₹10,000 received. 6. Security: ₹1,00,000 performance guarantee required (820 attached cards)."
+
+},
+
+{
+
+  "chunk_id": "fps_licensing_cases#10",
+
+  "text": "1. App No: FPS/2026/REG/810. 2. Applicant: Sh. Deepak Chawla. 3. Subject: Grant of Regular FPS License. 4. Decision: REJECTED. 5. Grounds: Background verification revealed applicant was previously convicted of an economic offence under the Bhartiya Nyaya Sanhita. Disqualified under Clause 3(F). Application fee not refunded."
+
+},
+
+{
+
+  "chunk_id": "fps_licensing_cases#11",
+
+  "text": "1. App No: FPS/2026/REG/811. 2. Applicant: Smt. Meena Kumari. 3. Subject: Grant of Regular FPS License. 4. Eligibility: Age 24 (Women relaxation applied), Class XII pass. 5. Decision: APPROVED. 6. Conditions: Must distribute Priority Household entitlements exactly at 4Kg wheat (@ Rs 2.00) and 1Kg rice (@ Rs 3.00) per member. e-PoS use is mandatory."
+
+},
+
+{
+
+  "chunk_id": "fps_licensing_cases#12",
+
+  "text": "1. App No: FPS/2026/REG/812. 2. Applicant: Sh. Ramesh Lal. 3. Subject: Duplicate License Issuance. 4. Details: Original license certificate destroyed in shop fire. 5. Decision: APPROVED. 6. Fees: Duplicate license fee of ₹500 deposited. New certificate issued by Commissioner."
+
+},
+
+{
+
+  "chunk_id": "fps_licensing_cases#13",
+
+  "text": "1. App No: FPS/2026/REG/813. 2. Applicant: Sh. Arun Patel. 3. Subject: Temporary FPS License. 4. Decision: APPROVED. 5. Fees: ₹500 application fee paid. 6. Conditions: Valid for three months. Regular application process must be initiated on portal as per rules."
+
+},
+
+{
+
+  "chunk_id": "fps_licensing_cases#14",
+
+  "text": "1. File No: ENF/FPS/2026/446. 2. Licensee: M/s Khurana Stores. 3. Subject: Operational Violation (e-PoS). 4. Findings: Routine inspection revealed tampering with the e-PoS external IRIS scanner to bypass biometric authentication. 5. Order: PENDING. Notice issued by Authorized Officer for license cancellation proceedings due to gravity of violation."
+
+},
+
+{
+
+  "chunk_id": "fps_licensing_cases#15",
+
+  "text": "1. App No: FPS/2026/REG/815. 2. Applicant: Smt. Kavita Yadav. 3. Subject: Grant of Regular FPS License. 4. Decision: APPROVED. 5. Conditions: Security deposit of ₹75,000 required (605 attached Ration Cards). 6. Mandate: Shop must remain closed on Republic Day, Independence Day, and Gandhi Jayanti."
+
+},
+
+{
+
+  "chunk_id": "fps_licensing_cases#16",
+
+  "text": "1. App No: FPS/2026/REG/816. 2. Applicant: Sh. Tarun Bajaj. 3. Subject: Transition of Existing License. 4. Details: Appointed in 2018, holds Class X pass certificate. 5. Decision: APPROVED. 6. Fees: ₹5,000 transition fee paid for one-time license. Minimum educational requirement satisfied per proviso for existing licensees."
+
+},
+
+{
+
+  "chunk_id": "fps_licensing_cases#17",
+
+  "text": "1. File No: ENF/FPS/2026/447. 2. Licensee: Sh. Om Prakash. 3. Subject: Operational Violation. 4. Findings: Public complaints of discourteous behavior and unhygienic storage conditions verified by circle inspector. 5. Order: APPROVED WITH CONDITIONS. Warning issued. ₹5,000 forfeit from performance guarantee. Remittance within 15 days."
+
+},
+
+{
+
+  "chunk_id": "fps_licensing_cases#18",
+
+  "text": "1. App No: FPS/2026/REG/818. 2. Applicant: Sh. Suresh Nanda. 3. Subject: Grant of Regular FPS License. 4. Decision: APPROVED. 5. Conditions: Licensee must distribute AAY entitlements exactly at 25kg wheat and 10kg rice per card. Truck challans must be updated on Department website immediately on receipt of SFAs."
+
+},
+
+{
+
+  "chunk_id": "fps_licensing_cases#19",
+
+  "text": "1. App No: FPS/2026/REG/819. 2. Applicant: M/s Aggarwal Traders. 3. Subject: Grant of Regular FPS License. 4. Decision: REJECTED. 5. Grounds: Applicant is a partnership firm that already holds one FPS license in the district. Disqualified per Clause 3(D)(a) limit of one license."
+
+},
+
+{
+
+  "chunk_id": "fps_licensing_cases#20",
+
+  "text": "1. App No: FPS/2026/REG/820. 2. Applicant: Sh. Manoj Tiwari. 3. Subject: Grant of Regular FPS License. 4. Eligibility: Age 41, Ex-Serviceman, Class XII pass. 5. Decision: APPROVED. 6. Fees: ₹1,000 application fee and ₹10,000 one-time license fee paid. Security deposit of ₹50,000 pending remittance."
+
+}
+]
+}

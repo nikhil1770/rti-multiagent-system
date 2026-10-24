@@ -1,0 +1,35 @@
+{
+  "id": "delhi_food/ration_card",
+  "department": "delhi_food",
+  "section": "ration_card",
+  "title": "Ration card eligibility & issuance",
+  "topic": "ration",
+  "source_file": "ration_card.docx",
+  "provenance": "real_public",
+  "chunks": [
+    {
+      "chunk_id": "ration_card#0",
+      "text": "## eligibility criteria by category\n\n### Source: citizen_charter_2017.pdf\n\nClause Eligibility Criteria:-\n\n1. The households having Annual income of less than Rs.1. Lakh will be considered as eligible households for inclusion in the NFS.\n\n2. Eldest female will be made Head of household in the National Food Security Card.\n\n3. The applications will be received in the concerned Circle office; FSO will approve the application after verification.\n\n### Source: faq_9016.pdf\n\nClause Q1:\n\nAs per guidelines issued under NFS Act 2013; eligibility criteria fixed for issue of NFS cards are as follows:\n\n(a) Geography, Socially and Occupationally Vulnerable Groups\n\n1. Residents of slums\n\n2. Residents of resettlement colony of F, G & H categories.\n\n3. Residents of notified abadies in rural villages\n\n4. Shelterless\n\n5. Transgenders\n\n6. Households with disabled people (as defined in Persons with Disabilities Act 1955) subject to submission of prescribed medical certificate."
+    },
+    {
+      "chunk_id": "ration_card#1",
+      "text": "7. Single woman (including widows, unmarried and separated and deserted women), living in household as dependent or as head of household.\n\n8. Children living without protection.\n\n9. Occupationally vulnerable groups like Rag-pickers unskilled occupationally vulnerable groups like Rag-pickers unskilled construction workers, porters, casual daily wage labour, casual domestic workers, cycle rickshaw drivers, unskilled workers in small household enterprises, unskilled workers in household industries workers, cycle rickshaw drivers, unskilled workers in small household enterprises, unskilled workers in household industrie.\n\n(b) Other Households:\n\nOther Households having annual income of less than Rs.1 lakh per annum.\n\n## documents required for new ration card\n\n### Source: faq_9016.pdf\n\nClause Q8:\n\nWhat are the documents required for issuance of NFS Card?\n\n1. Aadhaar Card of all family members.\n\n2. Passport size photo of HoF."
+    },
+    {
+      "chunk_id": "ration_card#2",
+      "text": "3. Electricity bill (Latest).\n\n4. Residence proof of address if other than Aadhaar address of Hof.\n\nClause Q9:\n\nWhat are the residences proof?\n\n1. Electricity bill (Latest)\n\n2. Telephone bill.\n\n3. Water bill.\n\n4. Rent Agreement with ownership proof of owner.\n\n5. Voter ID Card.\n\n6. Any other document issued by the Govt. Agency/Department.\n\nClause Q13:\n\nHow to apply for change of address on the Ration Card?... For applying through concerned Circle office, an application with specific reasons to change the present address to new address may be submitted to the concern circle office along with the documents:-\n\n1. Copy of Ration Card.\n\n2. Proof of change of Address (New).\n\n3. Copy of Electricity Bill.\n\nClause Q14:\n\nInclusion of names, deletion of names in the NFS Ration Card?... For applying through concerned Circle office, download Form from http://nfs.delhi.gov.in or obtain from concerned circle office. Fill it and submit it to the Circle office along with the following documents:-"
+    },
+    {
+      "chunk_id": "ration_card#3",
+      "text": "1. Copy of Old NFS Ration Card.\n\n2. Reasons with the deletion or inclusion of name in the Ration Card.\n\n3. Copy of Aadhaar/EID in case of inclusion of name in the Ration Card.\n\nClause Q32:\n\nCan a Ration Card be issued to my servant who is residing with us?\n\nThe servant can apply through the same process as described in Q1 & Q5 along with your Authorization letter and Address proof.\n\n## procedure and timeline for issuance\n\n### Source: citizen_charter_2017.pdf\n\nClause Time Frame for Disposal of various applications Table:\n\nSl No | Work | Time Limit | Competent Authority | Appellate Authority\n\n*1 | Issue of a new Ration Card | 30 days | Food & Supply Officer | District Grievance Redressal Officer\n\n2 | Surrender of Food Card | Same day | Food & Supply Officer | District Grievance Redressal Officer\n\n3 | Deletion of name of a family member from the Ration Card | 30 days | Food & Supply Officer | District Grievance Redressal Officer"
+    },
+    {
+      "chunk_id": "ration_card#4",
+      "text": "4 | * Addition of name | 30 days | Food & Supply Officer | District Grievance Redressal Officer\n\n5 | Change in address within the same circle | 30 days | Food & Supply Officer | District Grievance Redressal Officer\n\n6 | Change of FPS/KOD within the same circle | 30 days | Food & Supply Officer | District Grievance Redressal Officer\n\n*NOTE:- Subject to availability of vacancy for new beneficiary.\n\n### Source: faq_9016.pdf\n\nClause Q7:\n\nHow much time will take for issuance of NFS Card?\n\nSubject to verification of the documents and physical verifications by FSI concerned, the NFS card will be issued only on first cum first serve basis (According to Control Order 2015 time limit is 30 days subject to availability of limit of beneficiaries fixed by G.O.I. i.e. 72.78 lakh).\n\nClause Q16:\n\nHow long will it take to complete the process of inclusion deletion, change of address and name in Ration Card?\n\nThe Head of Family (HoF) should submit a requisition in the prescribed form along with copy of Ration Card to the concern FSO (circle office). Deletion and change in NFS card is a continuous process, but time limit for inclusion of New Member in NFS card is 30 days subject to availability of vacancies of beneficiaries (Citizen Charter 2017)."
+    },
+    {
+      "chunk_id": "ration_card#5",
+      "text": "## eKYC requirements and deadline\n\n### Source: faq_9016.pdf\n\nClause Q12:\n\nHow to obtain duplicate Ration Card?\n\nDepartment issues e-Ration Card which can be downloaded either from NFS Portal or e-District portal.\n\nClause Q31:\n\nHow to get the e-Ration Card?\n\nThe e-Ration Card can be downloaded from either NFS portal or e-District portal once the application is approved by the concerned FSO.\n\n## grounds for cancellation\n\n### Source: faq_9016.pdf\n\nClause Q18 (Surrender):\n\nIf a family shifts to other state, how the family could surrender their Ration Card?\n\nHoF can apply either Online on e-District portal or take help of Mobile Sahayak to submit the application. HoF can also visit concerned Ration office to submit a requisition in the prescribed form along with Original Ration Card to the concern FSO."
+    }
+  ]
+}

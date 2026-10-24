@@ -1,0 +1,172 @@
+{
+"department": "delhi_food",
+"section": "pds_stock_cases",
+"title": "Synthetic Case Records — PDS Stock Lifting & Distribution",
+"topic": "pds stock lifting and distribution",
+"source_file": "pds_stock_cases.docx",
+"provenance": "synthetic_grounded",
+"grounded_in": "pds_stock_rules_brief.txt",
+"grounded_in_url": "",
+"chunks": [
+
+{
+
+  "chunk_id": "pds_stock_cases#1",
+
+  "text": "1. Order No: PDS/ALLOC/2026/09/001. 2. Subject: Allocation Order for Oct 2026. 3. Agency: DSCSC Ltd. 4. Action: Authorised agency directed to lift 45,000 MT of wheat from FCI Depot, Mayapuri. 5. Timeline: Lifting must be completed by the last day of the preceding month (30-Sep-2026) as per TPDS Clause 7(9). Cost deposited in advance. 6. Status: APPROVED."
+
+},
+
+{
+
+  "chunk_id": "pds_stock_cases#2",
+
+  "text": "1. Insp No: PDS/INSP/2026/112. 2. Depot: FCI Narela. 3. Subject: Joint Inspection of Foodgrains. 4. Officers: Sh. K.L. Meena (Food and Civil Supplies Inspector) and FCI Area Manager. 5. Findings: Quality of 12,000 MT rice intended for South West District conforms to prescribed specifications under TPDS Clause 7(6). 6. Status: Cleared for physical delivery to intermediate godowns."
+
+},
+
+{
+
+  "chunk_id": "pds_stock_cases#3",
+
+  "text": "1. Ref: PDS/DEL/2026/08/44. 2. Subject: Door-step delivery to FPS. 3. Licensee: M/s Gupta Ration Store (FPS 4432). 4. Action: Physical delivery of 22 MT wheat completed on 04-Aug-2026. 5. Compliance: Delivered within the first week of the allocation month as per TPDS Clause 8(3). 6. Note: Licensee instructed to update truck chit/challan on Department website immediately."
+
+},
+
+{
+
+  "chunk_id": "pds_stock_cases#4",
+
+  "text": "1. File: PDS/ENF/2026/SEIZE/09. 2. Subject: Enforcement Action / Search &amp; Seizure. 3. Premise: Godown at Khasra 42, Bawana Industrial Area. 4. Findings: Unauthorized diversion of PDS wheat suspected. Food and Supplies Inspector conducted raid. 5. Order: 4.5 MT wheat seized under TPDS Clause 14(3). 6. Status: PENDING. FIR lodged, ongoing police investigation against black marketeers."
+
+},
+
+{
+
+  "chunk_id": "pds_stock_cases#5",
+
+  "text": "1. Ref: PDS/EXT/2025/08/99. 2. Subject: Advance Lifting Extension. 3. Note: In compliance with circular dated 07.08.2025, distribution of foodgrains for August 2025 shall be completed by 31st August 2025. 4. Condition: Circle officers notified that backlog distribution for June and July 2025 cannot be taken up in August 2025. 5. Status: Circular implemented across all Zonal offices."
+
+},
+
+{
+
+  "chunk_id": "pds_stock_cases#6",
+
+  "text": "1. Insp No: PDS/INSP/FPS/2026/331. 2. FPS Licensee: Sh. Ramesh Lal (FPS 8871). 3. Subject: Quarterly Regular Inspection. 4. Findings: Notice board lacks required information regarding opening/closing stock and toll-free helpline. 5. Action: Warning issued. FPS owner ordered to comply with display requirements under TPDS Clause 10(4)(ii) within 48 hours. 6. Status: APPROVED WITH CONDITIONS."
+
+},
+
+{
+
+  "chunk_id": "pds_stock_cases#7",
+
+  "text": "1. File: PDS/ALLOC/2026/10/045. 2. Subject: Request for Lifting Extension. 3. Requestor: DSCSC Logistics Cell. 4. Reason: Transport strike delaying lifting from FCI Okhla. 5. Decision: REJECTED. 6. Grounds: Under TPDS Clause 7(10), extension of time for lifting is permitted only in very rare and deserving cases by Central Government. Strike resolved; no extension granted."
+
+},
+
+{
+
+  "chunk_id": "pds_stock_cases#8",
+
+  "text": "1. Transporter ID: TR/4421/DL. 2. Subject: GPS Tracking Data. 3. Contractor: M/s Rapid Freight Movers. 4. Route Data: Proprietary route optimization logic, load balancing algorithms, and internal per-trip profit margins (Rs. 450/MT) submitted for audit. 5. Review: Transport mechanism verified for door-step delivery compliance under TPDS Clause 7(11). 6. Status: APPROVED."
+
+},
+
+{
+
+  "chunk_id": "pds_stock_cases#9",
+
+  "text": "1. Insp No: PDS/INSP/FPS/2026/388. 2. FPS Licensee: Smt. Bimla Devi (FPS 2210). 3. Subject: e-PoS Compliance Check. 4. Findings: Real-time reporting of stock and transactions halted for 4 days. E-PoS device found deliberately powered off. 5. Action: Show cause notice issued by Authorized Officer for violating Gazette 2026 Clause 10(b) and Annexure-V Term 6. 6. Status: PENDING."
+
+},
+
+{
+
+  "chunk_id": "pds_stock_cases#10",
+
+  "text": "1. Driver Details: Sh. Anil Kumar, Ph: 9899112233, Res: 44 Gali No. 2, Seelampur, Delhi. 2. Subject: Delivery Chit Verification. 3. Action: Driver delivered 14 MT Rice to FPS 5542 on 02-Oct-2026. 4. Note: Truck challan updated on website by FPS dealer upon receipt. Delivery verified against GPS logs. 5. Status: APPROVED. File closed."
+
+},
+
+{
+
+  "chunk_id": "pds_stock_cases#11",
+
+  "text": "1. File: PDS/RECON/2026/09. 2. Subject: Monthly Distribution Accounts. 3. FPS Licensee: M/s Aggarwal Provision (FPS 1022). 4. Action: Accounts of actual distribution and balance stock for September 2026 received on 30-Sep-2026. 5. Review: Data matches e-PoS server logs. Complies with TPDS Clause 10(4)(vi). 6. Status: APPROVED."
+
+},
+
+{
+
+  "chunk_id": "pds_stock_cases#12",
+
+  "text": "1. Insp No: PDS/INSP/FPS/2026/401. 2. FPS Licensee: Sh. Tariq Khan (FPS 3341). 3. Subject: Quarterly Inspection. 4. Findings: Inspecting staff demanded the Inspection Book. Licensee failed to produce it. 5. Action: Violation of Gazette 2026 Annexure-V Term 9. Penalty of Rs. 2000 imposed by Authorized Officer. 6. Status: APPROVED WITH CONDITIONS."
+
+},
+
+{
+
+  "chunk_id": "pds_stock_cases#13",
+
+  "text": "1. Order No: PDS/ALLOC/2026/11/022. 2. Subject: Allocation Order. 3. Agency: DSCSC Ltd. 4. Action: Direct transport of 18,000 MT Rice from FCI Godown directly to Fair Price Shops in East District authorised. 5. Rationale: Eliminating intermediate godown to speed up door-step delivery as permitted under TPDS Clause 7(11) proviso. 6. Status: APPROVED."
+
+},
+
+{
+
+  "chunk_id": "pds_stock_cases#14",
+
+  "text": "1. File: PDS/ENF/2026/SEIZE/12. 2. Subject: Search and Seizure. 3. FPS Licensee: M/s Jai Hind Store (FPS 9921). 4. Action: Food and Supplies Inspector conducted surprise inspection. Found 8 MT of unaccounted sugar. 5. Order: Stock seized under Gazette 2026 Clause 15(A)(h) for suspected contravention of Order. 6. Status: PENDING further audit of issue registers."
+
+},
+
+{
+
+  "chunk_id": "pds_stock_cases#15",
+
+  "text": "1. Ref: PDS/DEL/2026/10/88. 2. Subject: Door-step delivery delay. 3. FPS Licensee: Sh. Manoj Gupta (FPS 7712). 4. Complaint: Stock for October allocation not delivered by 10-Oct-2026. 5. Action: Transport contractor penalized for failing to ensure physical delivery not later than the first week of the allocation month (TPDS Clause 8(3)). 6. Status: APPROVED WITH CONDITIONS."
+
+},
+
+{
+
+  "chunk_id": "pds_stock_cases#16",
+
+  "text": "1. Insp No: PDS/INSP/2026/144. 2. Depot: FCI Shakti Nagar. 3. Subject: Joint Inspection of Foodgrains. 4. Findings: 400 MT of wheat found with excessive moisture content during joint inspection by Food Inspector and FCI official. 5. Action: Stock rejected under TPDS Clause 7(6) as it does not conform to prescribed quality specifications. 6. Status: REJECTED."
+
+},
+
+{
+
+  "chunk_id": "pds_stock_cases#17",
+
+  "text": "1. File: PDS/RECON/2026/10. 2. Subject: Stock Register Format. 3. FPS Licensee: Smt. Kavita Sharma (FPS 4110). 4. Action: Licensee submitted physical issue registers. 5. Directive: Authorized Officer instructed licensee to transition to prescribed electronic format in a progressive manner as mandated by TPDS Clause 10(4)(iii). 6. Status: APPROVED WITH CONDITIONS."
+
+},
+
+{
+
+  "chunk_id": "pds_stock_cases#18",
+
+  "text": "1. Order No: PDS/ALLOC/2026/12/005. 2. Subject: Advance Deposit. 3. Agency: State Government Finance Cell. 4. Action: Funds deposited to Corporation for December 2026 allocation on 15-Nov-2026. 5. Compliance: Deposit made in advance during the month preceding the allocation month (TPDS Clause 6(3)). 6. Status: APPROVED. Lifting authorized."
+
+},
+
+{
+
+  "chunk_id": "pds_stock_cases#19",
+
+  "text": "1. Insp No: PDS/INSP/FPS/2026/422. 2. FPS Licensee: Sh. Dinesh Chawla (FPS 6631). 3. Subject: Quarterly Inspection. 4. Findings: Commissioner conducted inspection under Gazette 2026 Clause 15(A). Dealer refused to produce accounts of specified articles. 5. Action: Show cause notice issued for violating Annexure-V Term 16 (failing to extend cooperation). 6. Status: PENDING."
+
+},
+
+{
+
+  "chunk_id": "pds_stock_cases#20",
+
+  "text": "1. Ref: PDS/DEL/2026/09/101. 2. Subject: Truck Challan Compliance. 3. FPS Licensee: M/s Nanda Ration (FPS 8820). 4. Action: Cross-verification of delivery showed truck chit updated on Department website 4 days after physical receipt. 5. Order: Warning issued to strictly comply with immediate update requirement under Gazette 2026 Clause 10(h). 6. Status: APPROVED WITH CONDITIONS."
+
+}
+]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "delhi_food/pds_stock_rules_brief",
+  "department": "delhi_food",
+  "section": "pds_stock_rules_brief",
+  "title": "Pds Stock Rules Brief",
+  "topic": "",
+  "source_file": "pds_stock_rules_brief.txt",
+  "provenance": "real_distilled",
+  "chunks": [
+    {
+      "chunk_id": "pds_stock_rules_brief#0",
+      "text": "FEES AND CHARGES\n\n* NOT SPECIFIED IN SOURCES.\n\nSTATUTORY TIMELINES\n\n* Advance Deposit: Cost of foodgrains must be deposited in the month preceding the allocation month (TPDS Clause 6(3)).\n\n* Lifting Deadline: By the last day of the month preceding the allocation month (TPDS Clause 7(9)).\n\n* Delivery to FPS: By the end of the preceding month, and in any case not later than the first week of the allocation month (TPDS Clause 8(3)).\n\n* Inspection Frequency: Regular inspections of fair price shops not less than once in three months (TPDS Clause 11(1)).\n\n* August 2025 Extension: Distribution for August 2025 must be completed by 31st August 2025. June and July 2025 distribution cannot be taken up in August (Circular 07.08.2025).\n\nREQUIRED DOCUMENTS\n\n* Allocation orders issued by the State Government to authorised agencies (TPDS Clause 7(2)).\n\n* Stock registers and issue/sale registers in prescribed formats/e-formats (TPDS Clause 10(4)(iii))."
+    },
+    {
+      "chunk_id": "pds_stock_rules_brief#1",
+      "text": "* Accounts of actual distribution sent to designated authority at month-end (TPDS Clause 10(4)(vi)).\n\n* Inspection Book maintained at the FPS (Gazette 2026 Annexure-V Term 9).\n\nMANDATORY NOCS / APPROVALS\n\n* NOT SPECIFIED IN SOURCES.\n\nGROUNDS FOR REFUSAL AND REVOCATION\n\n* Search and Seizure: Authority may search, seize or remove account books or foodgrains if there is reason to believe they will be used in contravention of the Order (TPDS Clause 14(3), Gazette 2026 Clause 15(A)).\n\nSTANDARD CONDITIONS IMPOSED\n\n* Joint Inspection: Stocks must be jointly inspected by a Food and Civil Supplies Inspector and a Corporation officer before delivery to ensure quality specifications (TPDS Clause 7(6)).\n\n* Display Requirements: Notice board must show entitlements, scale, prices, timings, received stock, opening/closing stock, and toll-free helpline (TPDS Clause 10(4)(ii)).\n\n* e-PoS Compliance: Dealers must operate through approved e-PoS devices and ensure real-time reporting of stock and allocation (Gazette 2026 Annexure-V Term 6, Clause 10(b))."
+    },
+    {
+      "chunk_id": "pds_stock_rules_brief#2",
+      "text": "* Truck Challan: Dealers must update the truck chit/challan on the Department website immediately on receipt of articles (Gazette 2026 Clause 10(h)).\n\nOFFICER DESIGNATIONS\n\n* Food and Civil Supplies Inspector (TPDS Clause 7(6), Gazette 2026 Clause 15(A)).\n\n* Commissioner or Authorized Officer (Gazette 2026 Clause 15(A)).\n\nVARIATION RULES\n\n* Extension of Time: Central Government may consider extending the lifting time only in very rare and deserving cases (TPDS Clause 7(10)).\n\nREFERENCE NUMBER FORMAT\n\n* NOT SPECIFIED IN SOURCES."
+    }
+  ]
+}

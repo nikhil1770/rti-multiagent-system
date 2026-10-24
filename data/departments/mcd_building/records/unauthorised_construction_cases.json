@@ -1,0 +1,52 @@
+{
+"department": "mcd_building",
+"section": "unauthorised_construction_cases",
+"title": "Synthetic Case Records — Unauthorised Construction & Enforcement",
+"topic": "unauthorised construction",
+"source_file": "unauthorised_construction_cases.docx",
+"provenance": "synthetic_grounded",
+"grounded_in": "Delhi Municipal Corporation Act 1957 and UBBL 2016",
+"grounded_in_url": "https://www.indiacode.nic.in/bitstream/123456789/13476/1/delhi_municipal_corporation_act_1957.pdf",
+"chunks": [
+{
+  "chunk_id": "unauthorised_construction_cases#1",
+  "text": "File No. ENF/2026/001. Authority: Commissioner. Subject: Show Cause Notice for Unauthorised Alteration. Owner: Vinod Kumar. Property: 14, Kamla Nagar. A site inspection revealed erection of a structure contrary to the sanctioned plan. Under Section 345(1) of the DMC Act, the owner is hereby given 7 days to show cause why the specified alterations should not be made to bring the work into conformity with the sanction. Failure to reply will result in binding alteration orders."
+},
+{
+  "chunk_id": "unauthorised_construction_cases#2",
+  "text": "File No. ENF/2026/002. Authority: Commissioner. Subject: Sealing Order. Owner: Priya Singh. Property: 89, Greater Kailash. Construction is proceeding without sanctioned plans. To prevent disputes over the nature and extent of the erection, an order directing the sealing of the premises is issued under Section 345A(1) of the DMC Act. The seal shall not be removed except by order of the Commissioner or the Appellate Tribunal."
+},
+{
+  "chunk_id": "unauthorised_construction_cases#3",
+  "text": "File No. ENF/2026/003. Authority: Commissioner. Subject: Demolition Order (Dangerous Building). Owner: Ramesh Chand. Property: 55, Chandni Chowk. The structural assessment confirms the building is in a ruinous condition and danger is imminent. Under Section 348(3) of the DMC Act, the Authority is taking immediate steps to fence off and demolish the dangerous portions to prevent danger to persons passing by."
+},
+{
+  "chunk_id": "unauthorised_construction_cases#4",
+  "text": "File No. ENF/2026/004. Authority: Commissioner. Subject: Regularisation of Deviation. Owner: Sunita Sharma. Property: 22, Rohini Sector 9. The owner submitted Form D-4 for regularisation. The deviation is calculated at 2% of permissible FAR, strictly within the 5% compoundable limit. Under UBBL Annexure IV (B), the deviation is compounded at 5 times the charges for permissible additional FAR. Compounding charges levied and regularisation APPROVED."
+},
+{
+  "chunk_id": "unauthorised_construction_cases#5",
+  "text": "File No. ENF/2026/005. Authority: Commissioner. Subject: Order of Demolition (Unfit for Habitation). Owner: Deepak Verma. Property: 12, Paharganj. Notice was served under Section 368(1) of the DMC Act. The owner failed to provide an undertaking to execute works of improvement. The building is ordered to be vacated within 30 days and demolished within six weeks after the expiration of that period."
+},
+{
+  "chunk_id": "unauthorised_construction_cases#6",
+  "text": "File No. ENF/2026/006. Authority: Commissioner. Subject: Show Cause Notice. Owner: Meera Reddy, residing at 5A, Safdarjung Enclave, Phone 9811122233. Property: 5A, Safdarjung Enclave. The property extends into the regular line of the public street. The owner is required to show cause within 15 days as to why the structure should not be pulled down under Section 307(1) of the DMC Act. (Note: File flagged for exemption 8(1)(j) due to explicit personal contact and residential details)."
+},
+{
+  "chunk_id": "unauthorised_construction_cases#7",
+  "text": "File No. ENF/2026/007. Authority: Commissioner. Subject: Rejection of Regularisation. Owner: Amit Patel. Property: 34, Punjabi Bagh. The owner applied for compounding of unauthorised coverage. The deviation exceeds the maximum compoundable limit of 13.5 sq.m and exceeds 5% of permissible coverage under UBBL Clause 3(12). The application for regularisation is REJECTED. Demolition proceedings to commence."
+},
+{
+  "chunk_id": "unauthorised_construction_cases#8",
+  "text": "File No. ENF/2026/008. Authority: Standing Committee. Subject: Notice for Demolition of Unauthorised Street. Offender: Global Builders Ltd. Location: Plot 100, Vasant Kunj. The developer laid out a street not in conformity with Standing Committee orders. Under Section 314 of the DMC Act, the offender must show cause by written statement why the street should not be altered or demolished. The proprietary financial backing for the project development is sealed. (Note: File flagged for exemption 8(1)(d) due to third-party commercial financial data)."
+},
+{
+  "chunk_id": "unauthorised_construction_cases#9",
+  "text": "File No. ENF/2026/009. Authority: Commissioner. Subject: Cancellation of Show Cause Notice. Owner: Sanjay Gupta. Property: 18, Mayur Vihar. Following the notice issued under Section 345(1) of the DMC Act, the owner successfully showed cause and provided evidence that the internal alterations were non-structural and exempt from sanction requirements. Under Section 345(3), the notice is hereby CANCELLED."
+},
+{
+  "chunk_id": "unauthorised_construction_cases#10",
+  "text": "File No. ENF/2026/010. Authority: Commissioner. Subject: Sealing Order pending Investigation. Owner: Tarun Bajaj. Property: 40, Okhla Industrial Area. Unauthorised execution of work detected. Premises sealed under Section 345A. The file is currently PENDING handover to the Economic Offences Wing for an active investigation into fraudulent structural safety certificates submitted during the initial sanction. (Note: File flagged for exemption 8(1)(h) due to active law enforcement investigation)."
+}
+]
+}

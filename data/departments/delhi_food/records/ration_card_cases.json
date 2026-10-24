@@ -1,0 +1,172 @@
+{
+"department": "delhi_food",
+"section": "ration_card_cases",
+"title": "Synthetic Case Records — Ration Card Issuance & eKYC",
+"topic": "ration card issuance",
+"source_file": "ration_card_cases.docx",
+"provenance": "synthetic_grounded",
+"grounded_in": "ration_card_rules_brief.txt",
+"grounded_in_url": "",
+"chunks": [
+
+{
+
+  "chunk_id": "ration_card_cases#1",
+
+  "text": "1. App No: NFS/RC/2026/08/101. 2. Subject: Issue of New Ration Card. 3. Applicant/HoF: Smt. Sunita Devi (Eldest Female, Age 42). 4. Category: Annual income less than Rs. 1 Lakh. 5. Documents: Aadhaar of all members, HoF passport photo, latest electricity bill submitted. 6. Decision: Application approved by Food &amp; Supply Officer (FSO). 7. Timeline: NFS Card to be issued within the 30 days statutory time frame. 8. Fee: Nil."
+
+},
+
+{
+
+  "chunk_id": "ration_card_cases#2",
+
+  "text": "1. App No: NFS/RC/2026/08/102. 2. Subject: Issue of New Ration Card. 3. Applicant/HoF: Sh. Ramesh Kumar (Elder male, no female member \\&gt;18 yrs). 4. Category: Resident of Slum (Vulnerable Group). 5. Documents: Aadhaar, Voter ID as residence proof, HoF photo. 6. Decision: Application approved by FSO following physical verification. 7. Conditions: Issuance within 30 days subject to beneficiary vacancy under 72.78 lakh G.O.I limit."
+
+},
+
+{
+
+  "chunk_id": "ration_card_cases#3",
+
+  "text": "1. App No: NFS/RC/2026/08/103. 2. Subject: Deletion of Family Member. 3. Applicant/HoF: Smt. Meena Vihar. 4. Documents: Copy of old NFS Ration Card, death certificate citing reasons for change. 5. Decision: Approved by FSO. Name deletion to reflect in NFS database. 6. Timeline: 30 days as per Citizen Charter. 7. Fee: No fee collected for deletion of name."
+
+},
+
+{
+
+  "chunk_id": "ration_card_cases#4",
+
+  "text": "1. App No: NFS/RC/2026/08/104. 2. Subject: Change of Address within same circle. 3. Applicant/HoF: Smt. Kavita Mehra. 4. Documents: Copy of Ration Card, Notarized Rent Agreement with owner proof, latest electricity bill. 5. Decision: Approved by Food &amp; Supply Officer. 6. Appeals: Any appeal regarding this modification lies with the District Grievance Redressal Officer."
+
+},
+
+{
+
+  "chunk_id": "ration_card_cases#5",
+
+  "text": "1. App No: NFS/RC/2026/08/105. 2. Subject: Issue of New Ration Card. 3. Applicant/HoF: Smt. Anjali Sharma. 4. Category: General. 5. Decision: REJECTED by Food &amp; Supply Officer. 6. Grounds for Refusal: Applicant declared household annual income of Rs. 2.5 Lakh. Fails eligibility criteria (Income must be less than Rs. 1 Lakh per annum). 7. Order Date: 12-Aug-2026."
+
+},
+
+{
+
+  "chunk_id": "ration_card_cases#6",
+
+  "text": "1. App No: NFS/RC/2026/08/106. 2. Subject: Issue of New Ration Card (Servant). 3. Applicant: Sh. Ramu Das. 4. Documents: Aadhaar, Authorization letter from employer (M/s Sharma Exports Pvt Ltd, GSTIN: 07AABCU9876Q1Z5, Annual Turnover: 12.5 Cr), and employer address proof. 5. Decision: Approved by FSO. 6. Note: Commercial data of employer verified. Card to be issued in 30 days."
+
+},
+
+{
+
+  "chunk_id": "ration_card_cases#7",
+
+  "text": "1. App No: NFS/RC/2026/08/107. 2. Subject: Inclusion of Family Member. 3. Applicant/HoF: Smt. Geeta Rani. 4. Documents: Copy of old NFS card, reasons for inclusion (birth of child), copy of Aadhaar/EID of new member. 5. Decision: Approved by FSO. 6. Timeline: Inclusion to be processed within 30 days subject to availability of vacancies of beneficiaries. 7. Fee: Nil."
+
+},
+
+{
+
+  "chunk_id": "ration_card_cases#8",
+
+  "text": "1. App No: NFS/RC/2026/08/108. 2. Subject: Issue of New Ration Card. 3. Applicant/HoF: Smt. Pooja Verma. 4. Contact Details: Ph- 9811098110, Res: Flat 4B, Pocket 2, Mayur Vihar Phase 1, New Delhi. 5. Category: Single Woman (Head of Household). 6. Documents: Aadhaar, HoF photo, Water Bill (residence proof). 7. Decision: Approved by FSO following document verification."
+
+},
+
+{
+
+  "chunk_id": "ration_card_cases#9",
+
+  "text": "1. App No: NFS/RC/2026/08/109. 2. Subject: Issue of New Ration Card. 3. Applicant/HoF: Sh. Dinesh Kumar. 4. Category: Disabled Person (as defined in Persons with Disabilities Act 1955). 5. Documents: Prescribed medical certificate, Aadhaar, electricity bill. 6. Decision: PENDING. 7. Query Raised: HoF photo missing. Applicant to upload passport size photo of HoF via e-district portal."
+
+},
+
+{
+
+  "chunk_id": "ration_card_cases#10",
+
+  "text": "1. App No: NFS/RC/2026/08/110. 2. Subject: Issue of New Ration Card. 3. Applicant/HoF: Smt. Rekha Tiwari. 4. Decision: REJECTED by Food &amp; Supply Officer. 5. Grounds for Refusal: Physical verification by FSO failed. Premises found locked continuously and neighbors confirmed applicant shifted to Haryana 6 months prior. 6. Appeals: District Grievance Redressal Officer."
+
+},
+
+{
+
+  "chunk_id": "ration_card_cases#11",
+
+  "text": "1. App No: NFS/RC/2026/08/111. 2. Subject: Surrender of Food Card. 3. Applicant/HoF: Smt. Sushma Yadav. 4. Reason: Family shifting to another state. 5. Documents: Requisition in prescribed form and Original Ration Card submitted to concerned FSO. 6. Decision: Approved. Card surrendered and cancelled in NFS database. 7. Timeline: Processed on the same day as per Citizen Charter."
+
+},
+
+{
+
+  "chunk_id": "ration_card_cases#12",
+
+  "text": "1. App No: NFS/RC/2026/08/112. 2. Subject: Issue of New Ration Card. 3. Applicant/HoF: Smt. Fatima Begum. 4. Category: Unskilled occupationally vulnerable group (casual domestic worker). 5. Documents: Aadhaar, HoF photo, Voter ID. 6. Decision: Approved by FSO. 7. Conditions: Issuance within 30 days statutory limit strictly subject to vacancy under 72.78 lakh Govt. of India limit."
+
+},
+
+{
+
+  "chunk_id": "ration_card_cases#13",
+
+  "text": "1. App No: NFS/RC/2026/08/113. 2. Subject: Duplicate Ration Card Download. 3. Applicant/HoF: Smt. Kamla Das. 4. Request: Physical copy lost, requires e-Ration Card. 5. Decision: Approved by FSO. 6. Action: Applicant advised that e-Ration Card can be downloaded directly from NFS Portal or e-District portal. 7. Fee: No fee collected for duplicate e-card generation."
+
+},
+
+{
+
+  "chunk_id": "ration_card_cases#14",
+
+  "text": "1. App No: NFS/RC/2026/08/114. 2. Subject: Issue of New Ration Card. 3. Applicant/HoF: Smt. Manju Lal. 4. Category: Resident of resettlement colony (Category G). 5. Decision: PENDING investigation by Vigilance/FSO. 6. Note: Ongoing inquiry regarding suspected fraudulent Aadhaar linkage on a previously cancelled card in applicant's name. Final order withheld until investigation concludes."
+
+},
+
+{
+
+  "chunk_id": "ration_card_cases#15",
+
+  "text": "1. App No: NFS/RC/2026/08/115. 2. Subject: Change of FPS within same circle. 3. Applicant/HoF: Smt. Lata Singh. 4. Documents: Requisition form submitted to District-in-Charge. 5. Decision: Approved by Food &amp; Supply Officer. 6. Timeline: Shop allocation modification to take effect within 30 days. Applicant instructed to check 'Ration Lifting Status' via NFS Portal."
+
+},
+
+{
+
+  "chunk_id": "ration_card_cases#16",
+
+  "text": "1. App No: NFS/RC/2026/08/116. 2. Subject: Issue of New Ration Card. 3. Applicant/HoF: Sh. Amit Paswan (Elder male). 4. Category: Transgender household. 5. Documents: Aadhaar, HoF photo, rent agreement. 6. Decision: Approved by FSO following successful physical verification. 7. Conditions: Issuance within 30 days. No fee collected. Appellate authority: District Grievance Redressal Officer."
+
+},
+
+{
+
+  "chunk_id": "ration_card_cases#17",
+
+  "text": "1. App No: NFS/RC/2026/08/117. 2. Subject: Inclusion of Family Member. 3. Applicant/HoF: Smt. Neha Gupta. 4. Documents: Copy of old NFS card, copy of EID (Aadhaar Enrolment ID) for new member. 5. Decision: PENDING. 6. Query Raised: Reason for inclusion not explicitly stated on the prescribed form. Applicant requested to resubmit with valid reasons for change."
+
+},
+
+{
+
+  "chunk_id": "ration_card_cases#18",
+
+  "text": "1. App No: NFS/RC/2026/08/118. 2. Subject: Issue of New Ration Card. 3. Applicant/HoF: Smt. Asha Kiran. 4. Category: Shelterless. 5. Documents: Aadhaar of all members, HoF photo. 6. Decision: Approved conditionally by FSO. 7. Conditions: E-Ration card will be generated within 30 days, strictly subject to the availability of beneficiary vacancies under the 72.78 lakh maximum limit."
+
+},
+
+{
+
+  "chunk_id": "ration_card_cases#19",
+
+  "text": "1. App No: NFS/RC/2026/08/119. 2. Subject: Change of Address. 3. Applicant/HoF: Smt. Bimla Devi. 4. Documents: Copy of Ration Card, Telephone Bill (proof of new address). 5. Decision: Approved by FSO. Address updated in NFS portal database. 6. Timeline: Process completed within 30 days. 7. Fee: Nil. Appeal rights lie with District Grievance Redressal Officer."
+
+},
+
+{
+
+  "chunk_id": "ration_card_cases#20",
+
+  "text": "1. App No: NFS/RC/2026/08/120. 2. Subject: Issue of New Ration Card. 3. Applicant/HoF: Smt. Sarita Jha (Eldest female, Age 34). 4. Category: Unskilled construction worker. 5. Documents: Aadhaar, photo, electricity bill. 6. Decision: Approved by Food &amp; Supply Officer. 7. E-Ration Card approved for download via e-district portal. Timeline: Issued within 30 days."
+
+}
+]
+}

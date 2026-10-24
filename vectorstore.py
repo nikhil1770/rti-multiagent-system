@@ -13,6 +13,8 @@ full rebuild: python ingest/embed.py
 """
 
 import os
+import re
+import time
 from pathlib import Path
 
 import chromadb
@@ -62,19 +64,35 @@ def embedder_name() -> str:
     return GEMINI_EMBED_MODEL if using_gemini() else "default-minilm"
 
 
-def _embed(texts: list[str], task_type: str) -> list[list[float]]:
+def _retry_delay(msg: str, default: float = 30.0) -> float:
+    """Pull the server-suggested retry delay (seconds) out of a 429 message."""
+    m = re.search(r"retryDelay['\"]?:\s*['\"]?(\d+)", msg)
+    return float(m.group(1)) + 2 if m else default
+
+
+def _embed(texts: list[str], task_type: str, max_rounds: int = 5) -> list[list[float]]:
+    """Embed texts, rotating keys and backing off on free-tier 429s."""
     if not using_gemini():
         return _local()(texts)
     from google.genai import types
     cfg = types.EmbedContentConfig(task_type=task_type)
     last_err = None
-    for client in _clients():
-        try:
-            resp = client.models.embed_content(model=GEMINI_EMBED_MODEL, contents=texts, config=cfg)
-            return [e.values for e in resp.embeddings]
-        except Exception as exc:  # noqa: BLE001
-            last_err = exc
-    raise RuntimeError(f"all Gemini keys failed for embedding: {last_err}")
+    for attempt in range(max_rounds):
+        for client in _clients():
+            try:
+                resp = client.models.embed_content(model=GEMINI_EMBED_MODEL, contents=texts, config=cfg)
+                return [e.values for e in resp.embeddings]
+            except Exception as exc:  # noqa: BLE001
+                last_err = exc
+        # every key failed this round — if it's a quota limit, wait it out
+        if "RESOURCE_EXHAUSTED" in str(last_err) or "429" in str(last_err):
+            delay = min(_retry_delay(str(last_err)), 65)
+            print(f"  [embed] rate limit hit; waiting {delay:.0f}s then retrying "
+                  f"(round {attempt + 1}/{max_rounds})...")
+            time.sleep(delay)
+        else:
+            break  # non-quota error — don't spin
+    raise RuntimeError(f"all Gemini keys failed for embedding after {max_rounds} rounds: {last_err}")
 
 
 def embed_documents(texts: list[str]) -> list[list[float]]:

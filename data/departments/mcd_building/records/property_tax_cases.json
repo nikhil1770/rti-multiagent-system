@@ -1,0 +1,52 @@
+{
+"department": "mcd_building",
+"section": "property_tax_cases",
+"title": "Synthetic Case Records — Property Tax Assessment and Mutation",
+"topic": "property tax",
+"source_file": "property_tax_cases.docx",
+"provenance": "synthetic_grounded",
+"grounded_in": "Delhi Municipal Corporation Act 1957, MCD Schedule FY 2025-26, and SUNIYO Scheme Guidelines",
+"grounded_in_url": "https://mcdonline.nic.in/portal/downloadFile/schedule_of_leavy_of_municipal_taxes_rates_and_casses_for_the_financial_year_2025-26_25052911490151.pdf",
+"chunks": [
+{
+  "chunk_id": "property_tax_cases#1",
+  "text": "Order No. MCD/PTR/2026/301. Officer: Assessing Officer. Subject: Self-Assessment Tax Return Clearance. Taxpayer: Ramesh Kumar. UPIC: 110012345678901. Property: Plot 14, Category B Colony, Vasant Vihar. Annual Value assessed online. Tax paid in full before June 30th. Timely payment rebate of 10% under Section 123B(3) and online filing rebate of 2% applied. Waiver certificate and tax receipt auto-generated under the SUNIYO Scheme. Application APPROVED."
+},
+{
+  "chunk_id": "property_tax_cases#2",
+  "text": "Order No. MCD/MUT/2026/302. Officer: Circle Officer of the Zone. Subject: Approval of e-Change of Name (Mutation). Applicant: Sunita Rani. Property: 88, Category C Colony, Lajpat Nagar. Notice of transfer submitted within 3 months of registration. Complete chain of ownership, notarized affidavit (Rs. 10 stamp), indemnity bond (Rs. 100 stamp), and transfer duty paid. Mutation recorded in assessment list. Mutation APPROVED."
+},
+{
+  "chunk_id": "property_tax_cases#3",
+  "text": "Order No. MCD/PTR/2026/303. Officer: Assessing Officer. Subject: Grant of Senior Citizen Rebate. Taxpayer: Hargobind Singh. Property: 45, Category A Colony, Defence Colony. Covered space: 90 sq. mtrs self-occupied. Applicant provided proof of age (62 years). Senior citizen rebate of 30% on covered space granted under Section 114B of the DMC Act. Tax liability recalculated accordingly."
+},
+{
+  "chunk_id": "property_tax_cases#4",
+  "text": "Order No. MCD/MUT/2026/304. Officer: Circle Officer of the Zone. Subject: Approval of Mutation on Devolution of Title. Applicant: Kavita Sharma, residing at 12A, Civil Lines, Delhi, Phone 9810011223, Email kavita.s@email.com. Property: 12A, Civil Lines. Application submitted upon death of previous owner within the mandatory 6-month timeline. Surviving Member Certificate and up-to-date tax receipts verified. Mutation APPROVED. (Note: File flagged for exemption 8(1)(j) due to explicit personal contact details)."
+},
+{
+  "chunk_id": "property_tax_cases#5",
+  "text": "Order No. MCD/PTR/2026/305. Officer: Commissioner. Subject: Rejection of Tax Exemption Claim. Taxpayer: Apex Commercial Enterprises. Property: Plot C-12, Okhla Phase III. The applicant claimed exemption under Section 115(1). Inspection confirmed the property is under commercial lease and not exclusively used for public charity or free education. Exemption REJECTED. Standard 12% property tax rate levied."
+},
+{
+  "chunk_id": "property_tax_cases#6",
+  "text": "Order No. MCD/PTR/2026/306. Officer: Assessing Officer. Subject: Sealing of Assessment Records pending Investigation. Taxpayer: Om Logistics Pvt Ltd. UPIC: 110098765432109. Property: Warehouse 4, Libaspur. The taxpayer submitted fraudulent property tax receipts claiming SUNIYO scheme amnesty. The file is currently PENDING and handed over to the Vigilance Cell for active fraud prosecution. (Note: File flagged for exemption 8(1)(h) due to ongoing law enforcement investigation)."
+},
+{
+  "chunk_id": "property_tax_cases#7",
+  "text": "Order No. MCD/MUT/2026/307. Officer: Circle Officer of the Zone. Subject: Conditional Mutation Approval (Un-registered Will). Applicant: Rajesh Malhotra. Property: 50, Rajouri Garden. The deceased owner left an un-registered Will. The applicant provided NOCs from all other legal heirs along with photo ID proofs as mandated by Clause B(ii) of the Unified Policy. Mutation APPROVED WITH CONDITIONS."
+},
+{
+  "chunk_id": "property_tax_cases#8",
+  "text": "Order No. MCD/PTR/2026/308. Officer: Assessing Officer. Subject: Grant of Exemption (War Widow). Taxpayer: Savitri Devi. Property: 23, Dwarka Sector 7. Exemption claimed under Section 115(1)(vii) as war widow. Document verification confirmed self-occupied residential status. Lifetime property tax exemption APPROVED for this single residential property."
+},
+{
+  "chunk_id": "property_tax_cases#9",
+  "text": "Order No. MCD/MUT/2026/309. Officer: Circle Officer of the Zone. Subject: Rejection of e-Change of Name. Applicant: Vikas Gupta. Property: 101, Model Town. Application submitted for mutation. The applicant failed to provide the mandatory NOCs from other legal heirs under the un-registered Will, and prior property tax dues remain outstanding. Mutation REJECTED."
+},
+{
+  "chunk_id": "property_tax_cases#10",
+  "text": "Order No. MCD/PTR/2026/310. Officer: Assessing Officer. Subject: Assessment of Commercial Data Center. Taxpayer: NetCore Hosting Solutions. UPIC: 110055544433322. Property: Plot 8, Mohan Cooperative Industrial Estate. Annual Value calculated for commercial usage. Proprietary server rack architecture and power grid schematics submitted alongside tax filings are protected under non-disclosure agreements. Assessment COMPLETED. (Note: File flagged for exemption 8(1)(d) due to third-party commercial confidence details)."
+}
+]
+}

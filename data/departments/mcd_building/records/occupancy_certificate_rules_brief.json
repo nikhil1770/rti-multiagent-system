@@ -1,0 +1,27 @@
+{
+  "id": "mcd_building/occupancy_certificate_rules_brief",
+  "department": "mcd_building",
+  "section": "occupancy_certificate_rules_brief",
+  "title": "Occupancy Certificate Rules Brief",
+  "topic": "",
+  "source_file": "occupancy_certificate_rules_brief.txt",
+  "provenance": "real_distilled",
+  "chunks": [
+    {
+      "chunk_id": "occupancy_certificate_rules_brief#0",
+      "text": "FEES AND CHARGES\n\nBuilding Permit fee for Completion: Calculated at the rate of Rs. 10/- per sq.m of covered area (including basement and stilt floor) (UBBL Clause 1.a.i).\n\nApplication for completion certificate fee: Rs. 10/- per sq.m of covered area (UBBL Clause 2.1.1.b).\n\nInspection of completion work up to plinth level fee: Rs. 500/- (UBBL Clause 2.1.1.a).\n\nPre-occupancy charges: Rs. 25,000/- per dwelling unit for group housing; Rs. 2000/- per sq.m for Commercial buildings; Rs. 500/- per sq.m for Institutional/Govt./Others (UBBL Clause 2.1.1.c).\n\nSTATUTORY TIMELINES\n\nInspection and Communication: The Authority must inspect the work and communicate the sanction, refusal, or objection within 60 days from the date of receipt of the notice of completion (Handbook Clause 10.I).\n\nDeemed Occupancy: NOT SPECIFIED IN SOURCES.\n\nREQUIRED DOCUMENTS (RESIDENTIAL PLOTTED)\n\nNotice of completion on Performa Appendix B-3 (Bye-law No. 7.5.2)."
+    },
+    {
+      "chunk_id": "occupancy_certificate_rules_brief#1",
+      "text": "Certificate by Owner, Architect, Engineer, Structural Engineer, and supervisor (Appendix B-3) in duplicate.\n\nStructural drawings as executed, signed by owner, Architect, and Structural Engineer.\n\nCopy of Lease-deed.\n\nValid extension of time (if applicable) up to the date of applying.\n\nRevalidation of plan up to the date of application.\n\nValid Certificates for Architect, Engineer, and Qualification Certificate for Structural Engineer.\n\nCertificate regarding deviations from Architect/Engineer.\n\nOne set of coloured building photographs (8x10).\n\n3 sets (one cloth mounted) of Completion Plans (Layout, Building, Sections & Elevations) with actual area calculations.\n\nSuperimposed Layout and Building Plans (where applicable).\n\nSewer connection permission from DDA (wherever applicable).\n\nMANDATORY NOCS / APPROVALS (FOR PSP/INSTITUTIONAL/GROUP HOUSING)\n\nChief Fire Officer (No objection Certificate for occupancy).\n\nChief Controller of Explosives."
+    },
+    {
+      "chunk_id": "occupancy_certificate_rules_brief#2",
+      "text": "BSES/local power company (for transformers/sub-stations).\n\nLift Inspector, GNCTD.\n\nAirport Authority of India (AAI) and ICAO standard day/night marking.\n\nDJB/MCD/DDA for Sewerage, Water Supply, and Storm Water Drain Schemes.\n\nDelhi Urban Arts Commission (DUAC) Proforma.\n\nGROUNDS FOR REFUSAL AND REVOCATION\n\nRejection: The Authority will communicate in case of rejection, giving full reasons and objections raised (UBBL Clause 2.26.3.b).\n\nRevocation: The Completion/Occupancy Certificate shall be revoked, and action taken as per law, if it is found that it was obtained on misrepresentation (UBBL Clause 2.29.1.b).\n\nSTANDARD CONDITIONS IMPOSED\n\nNOT SPECIFIED IN SOURCES.\n\nOFFICER DESIGNATIONS\n\nCompetent Authority.\n\nChief Fire Officer.\n\nLift Inspector, GNCTD.\n\nRegistrar of Co-op. Group Housing Societies (RCS).\n\nVARIATION RULES\n\nProvisional Occupancy Certificate (POC) & Completion-cum-Occupancy Certificate (C.C.): Specific split procedures and separate document requirements exist strictly for Co-op Group Housing societies, Govt. Housing Schemes, Govt. Aided Institutional, and Charitable Trust/Wakf Boards (Handbook Clause 10.II, C-III, C-IV)."
+    },
+    {
+      "chunk_id": "occupancy_certificate_rules_brief#3",
+      "text": "REFERENCE NUMBER FORMAT\n\nNOT SPECIFIED IN SOURCES."
+    }
+  ]
+}

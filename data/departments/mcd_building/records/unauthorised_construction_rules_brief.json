@@ -1,0 +1,23 @@
+{
+  "id": "mcd_building/unauthorised_construction_rules_brief",
+  "department": "mcd_building",
+  "section": "unauthorised_construction_rules_brief",
+  "title": "Unauthorised Construction Rules Brief",
+  "topic": "",
+  "source_file": "unauthorised_construction_rules_brief.txt",
+  "provenance": "real_distilled",
+  "chunks": [
+    {
+      "chunk_id": "unauthorised_construction_rules_brief#0",
+      "text": "FEES AND CHARGES\n\nRegularisation requires paying requisite fees and charges (UBBL Clause 2.27).\n\nCompounding charges for FAR/coverage deviations (UBBL Annexure IV (B)):\n\nUp to 0.5%: Same charges as for permissible additional FAR.\n\nAbove 0.5% to 2.5%: 5 times the charges as for permissible additional FAR.\n\nAbove 2.5% to 5%: 10 times the charges as for permissible additional FAR.\n\nExplicit Penalty Amounts: NOT SPECIFIED IN SOURCES.\n\nSTATUTORY TIMELINES\n\nAlteration/Stoppage Show Cause Notice: Must provide a period of not less than seven days to make alterations or show cause (DMC Act Sec 345(1)).\n\nDemolition of Unfit Building: Must be vacated within a period not less than 30 days from the date of the order, and demolished within six weeks after the expiration of that period (DMC Act Sec 368(3)).\n\nREQUIRED DOCUMENTS\n\nForm D-4 for regularisation (UBBL Clause 2.27).\n\nMANDATORY NOCS / APPROVALS\n\nApproval of the Standing Committee is required to order the pulling down of a building within the regular line of a street (DMC Act Sec 307(2))."
+    },
+    {
+      "chunk_id": "unauthorised_construction_rules_brief#1",
+      "text": "GROUNDS FOR ENFORCEMENT (DEMOLITION/SEALING/NOTICES)\n\nBuilding within the regular line of a public street (DMC Act Sec 307).\n\nLaying out a street contrary to Standing Committee orders (DMC Act Sec 314).\n\nErection contrary to sanction, conditions, or bye-laws (DMC Act Sec 345).\n\nBuilding in ruinous condition, likely to fall, or dangerous (DMC Act Sec 348).\n\nBuilding unfit for human habitation and not capable of being rendered fit at a reasonable expense (DMC Act Sec 368).\n\nSTANDARD CONDITIONS IMPOSED\n\nSealing orders can be made before or after making an order of demolition or stoppage of erection. No person shall remove the seal except under an order by the Commissioner, Appellate Tribunal, or Administrator (DMC Act Sec 345A).\n\nOFFICER DESIGNATIONS\n\nCommissioner (initiates notices, sealing, demolition).\n\nStanding Committee.\n\nAppellate Tribunal.\n\nAdministrator.\n\nVARIATION RULES\n\nCompounding Limits: Authority can compound deviations from limits of coverage/FAR to the extent of 5% of permissible coverage and FAR, subject to a maximum of 13.5 sq.m. For group housing and public/semi-public facilities, 5% FAR beyond permissible can be compounded (UBBL Annexure IV (B) & Clause 3(12))."
+    },
+    {
+      "chunk_id": "unauthorised_construction_rules_brief#2",
+      "text": "REFERENCE NUMBER FORMAT\n\nNOT SPECIFIED IN SOURCES."
+    }
+  ]
+}
